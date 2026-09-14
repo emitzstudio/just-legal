@@ -1,0 +1,33 @@
+[
+ {
+  "id": "bns-358",
+  "actId": "bns",
+  "chapterId": "bns-ch20",
+  "number": "358",
+  "sortIndex": 3580,
+  "title": "Repeal and savings",
+  "officialText": "(1) The Indian Penal Code is hereby repealed.\n\n(2) Notwithstanding the repeal of the Code referred to in sub-section (1), it shall not affect,—\n\n(a) the previous operation of the Code so repealed or anything duly done or suffered thereunder; or\n\n(b) any right, privilege, obligation or liability acquired, accrued or incurred under the Code so repealed; or\n\n(c) any penalty, or punishment incurred in respect of any offences committed against the Code so repealed; or\n\n(d) any investigation or remedy in respect of any such penalty, or punishment; or\n\n(e) any proceeding, investigation or remedy in respect of any such penalty or punishment as aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed as if that Code had not been repealed.\n\n(3) Notwithstanding such repeal, anything done or any action taken under the said Code shall be deemed to have been done or taken under the corresponding provisions of this Sanhita.\n\n(4) The mention of particular matters in sub-section (2) shall not be held to prejudice or affect the general application of section 6 of the General Clauses Act,1897 with regard to the effect of the repeal.",
+  "officialStatus": "full",
+  "explanation": "The section that closes the circle: it repeals the Indian Penal Code, 1860. The savings clauses preserve everything already done under the IPC — earlier operation of the Code, rights and liabilities accrued, penalties incurred, and pending investigations and proceedings, which continue as if the Sanhita had not been passed. Section 6 of the General Clauses Act, 1897 governs the transition generally.",
+  "keyPoints": [
+   "Repeals the Indian Penal Code, 1860.",
+   "Offences committed before commencement continue to be dealt with under the IPC.",
+   "Anything done under the repealed Code is deemed done under the corresponding BNS provision."
+  ],
+  "relatedSectionIds": [
+   "bns-1",
+   "bns-3"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "repeal",
+   "savings",
+   "ipc",
+   "transition",
+   "general clauses"
+  ],
+  "curated": true,
+  "example": "A theft committed in June 2024 — before the BNS commenced — is investigated and tried under the IPC even if the charge sheet is filed later. An offence committed on or after 1 July 2024 is charged under the BNS."
+ }
+]

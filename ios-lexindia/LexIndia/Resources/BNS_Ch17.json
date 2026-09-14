@@ -1,0 +1,892 @@
+[
+ {
+  "id": "bns-303",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "303",
+  "sortIndex": 3030,
+  "title": "Theft",
+  "officialText": "(1) Whoever, intending to take dishonestly any movable property out of the possession of any person without that person’s consent, moves that property in order to such taking, is said to commit theft.\n\nExplanation 1.—A thing so long as it is attached to the earth, not being movable property, is not the subject of theft; but it becomes capable of being the subject of theft as soon as it is severed from the earth. Explanation 2.—A moving effected by the same act which affects the severance may be a theft.\n\nExplanation 3.—A person is said to cause a thing to move by removing an obstacle which prevented it from moving or by separating it from any other thing, as well as by actually moving it. Explanation 4.—A person, who by any means causes an animal to move, is said to move that animal, and to move everything which, in consequence of the motion so caused, is moved by that animal. Explanation 5.—The consent mentioned in this section may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.\n\nIllustrations.\n\n(a) A cuts down a tree on Z’s ground, with the intention of dishonestly taking the tree out of Z’s possession without Z’s consent. Here, as soon as A has severed the tree in order to such taking, he has committed theft.\n\n(b) A puts a bait for dogs in his pocket, and thus induces Z’s dog to follow it. Here, if A ’s intention be dishonestly to take the dog out of Z’s possession without Z’s consent. A has committed theft as soon as Z’s dog has begun to follow A.\n\n(c) A meets a bullock carrying a box of treasure. He drives the bullock in a certain direction, in order that he may dishonestly take the treasure. As soon as the bullock begins to move, A has committed theft of the treasure.\n\n(d) A being Z’s servant, and entrusted by Z with the care of Z’s plate, dishonestly runs away with the plate, without Z’s consent. A has committed theft.\n\n(e) Z, going on a journey, entrusts his plate to A, the keeper of a warehouse, till Z shall return. A carries the plate to a goldsmith and sells it. Here the plate was not in Z’s possession. It could not therefore be taken out of Z’s possession, and A has not committed theft, though he may have committed criminal breach of trust.\n\n(f) A finds a ring belonging to Z on a table in the house which Z occupies. Here the ring is in Z’s possession, and if A dishonestly removes it, A commits theft.\n\n(g) A finds a ring lying on the highroad, not in the possession of any person. A, by taking it, commits no theft, though he may commit criminal misappropriation of property.\n\n(h) A sees a ring belonging to Z lying on a table in Z’s house. Not venturing to misappropriate the ring immediately for fear of search and detection, A hides the ring in a place where it is highly improbable that it will ever be found by Z, with the intention of taking the ring from the hiding place and selling it when the loss is forgotten. Here A, at the time of first moving the ring, commits theft.\n\n(i) A delivers his watch to Z, a jeweler, to be regulated. Z carries it to his shop. A, not owing to the jeweler any debt for which the jeweler might lawfully detain the watch as a security, enters the shop openly, takes his watch by force out of Z’s hand, and carries it away. Here A, though he may have committed criminal trespass and assault, has not committed theft, in as much as what he did was not done dishonestly.\n\n(j) If A owes money to Z for repairing the watch, and if Z retains the watch lawfully as a security for the debt, and A takes the watch out of Z’s possession, with the intention of depriving Z of the property as a security for his debt, he commits theft, in as much as he takes it dishonestly.\n\n(k) Again, if A, having pawned his watch to Z, takes it out of Z’s possession without Z’s consent, not having paid what he borrowed on the watch, he commits theft, though the watch is his own property in as much as he takes it dishonestly.\n\n(l) A takes an article belonging to Z out of Z’s possession without Z’s consent, with the intention of keeping it until he obtains money from Z as a reward for its restoration. Here A takes dishonestly; A has therefore committed theft.\n\n(m) A, being on friendly terms with Z, goes into Z’s library in Z’s absence, and takes away a book without Z’s express consent for the purpose merely of reading it, and with the intention of returning it. Here, it is probable that A may have conceived that he had Z’s implied consent to use Z’s book. If this was A ’s impression, A has not committed theft.\n\n(n) A asks charity from Z’s wife. She gives A money, food and clothes, which A knows to belong to Z her husband. Here it is probable that A may conceive that Z’s wife is authorised to give away alms. If this was A ’s impression, A has not committed theft.\n\n(o) A is the paramour of Z’s wife. She gives a valuable property, which A knows to belong to her husband Z, and to be such property as she has no authority from Z to give. If A takes the property dishonestly, he commits theft.\n\n(p) A, in good faith, believing property belonging to Z to be A ’s own property, takes that property out of Z’s possession. Here, as A does not take dishonestly, he does not commit theft.\n\n(2) Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both and in case of second or subsequent conviction of any person under this section, he shall be punished with rigorous imprisonment for a term which shall not be less than one year but which may extend to five years and with fine:\n\nProvided that in cases of theft where the value of the stolen property is less than five thousand rupees, and a person is convicted for the first time, shall upon return of the value of property or restoration of the stolen property, shall be punished with community service.",
+  "officialStatus": "full",
+  "explanation": "Theft has five ingredients: dishonest intention, movable property, taken out of someone's possession, without consent, with some movement of the property. Even a momentary taking counts. First-time petty theft can end in community service if the property is returned.",
+  "keyPoints": [
+   "Five ingredients: dishonesty, movable property, possession, no consent, movement",
+   "Up to three years for a first offence; repeat convictions carry a one-to-five-year range",
+   "First-time petty theft (under ₹5,000) can be punished with community service on return of the property"
+  ],
+  "relatedSectionIds": [
+   "bns-304",
+   "bns-309",
+   "bns-317"
+  ],
+  "caseLawIds": [
+   "pyare-lal"
+  ],
+  "definitionIds": [
+   "dishonestly",
+   "movable-property"
+  ],
+  "keywords": [
+   "theft",
+   "steal",
+   "chori",
+   "stolen",
+   "take"
+  ],
+  "curated": true,
+  "example": "Taking a parked scooter for a joyride and abandoning it two streets away is theft — the dishonest moving out of possession is complete, even though the rider never meant to keep it.",
+  "ipcLabel": "IPC 378 · 379"
+ },
+ {
+  "id": "bns-304",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "304",
+  "sortIndex": 3040,
+  "title": "Snatching",
+  "officialText": "(1) Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.\n\n(2) Whoever commits snatching, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Snatching — the chain pulled from a neck, the phone grabbed from a hand — is now a distinct offence, separate from ordinary theft. The essence is the sudden or forcible grab from a person. It always carries imprisonment plus fine.",
+  "keyPoints": [
+   "A standalone offence in the BNS — the IPC had no separate snatching provision",
+   "Sudden, quick or forcible seizure from a person is the defining act",
+   "Up to three years' imprisonment, and fine — fine is mandatory, unlike theft"
+  ],
+  "relatedSectionIds": [
+   "bns-303",
+   "bns-309"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "movable-property"
+  ],
+  "keywords": [
+   "snatching",
+   "chain",
+   "phone",
+   "grab",
+   "seize"
+  ],
+  "curated": true,
+  "example": "A rider on a passing motorcycle yanks a pedestrian's mobile phone from her hand. That sudden seizure from her person is snatching, not mere theft.",
+  "ipcLabel": "New in BNS"
+ },
+ {
+  "id": "bns-305",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "305",
+  "sortIndex": 3050,
+  "title": "Theft in a dwelling house, or means of transportation or place of worship, etc",
+  "officialText": "Whoever commits theft—\n\n(a) in any building, tent or vessel used as a human dwelling or used for the custody of property; or\n\n(b) of any means of transport used for the transport of goods or passengers; or\n\n(c) of any article or goods from any means of transport used for the transport of goods or passengers; or\n\n(d) of idol or icon in any place of worship; or\n\n(e) of any property of the Government or of a local authority, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "theft",
+   "dwelling",
+   "house",
+   "means",
+   "transportation",
+   "place"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-306",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "306",
+  "sortIndex": 3060,
+  "title": "Theft by clerk or servant of property in possession of master",
+  "officialText": "Whoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "theft",
+   "clerk",
+   "servant",
+   "property",
+   "possession",
+   "master"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-307",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "307",
+  "sortIndex": 3070,
+  "title": "Theft after preparation made for causing death, hurt or restraint in order to committing of theft",
+  "officialText": "Whoever commits theft, having made preparation for causing death, or hurt, or restraint, or fear of death, or of hurt, or of restraint, to any person, in order to the committing of such theft, or in order to the effecting of his escape after the committing of such theft, or in order to the retaining of property taken by such theft, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.\n\nIllustrations.\n\n(a) A commits theft on property in Z’s possession; and while committing this theft, he has a loaded pistol under his garment, having provided this pistol for the purpose of hurting Z in case Z should resist. A has committed the offence defined in this section.\n\n(b) A picks Z’s pocket, having posted several of his companions near him, in order that they may restrain Z, if Z should perceive what is passing and should resist, or should attempt to apprehend A. A has committed the offence defined in this section.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "theft",
+   "preparation",
+   "made",
+   "causing",
+   "death",
+   "hurt"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-308",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "308",
+  "sortIndex": 3080,
+  "title": "Extortion",
+  "officialText": "(1) Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property, or valuable security or anything signed or sealed which may be converted into a valuable security, commits extortion.\n\nIllustrations.\n\n(a) A threatens to publish a defamatory libel concerning Z unless Z gives him money. He thus induces Z to give him money. A has committed extortion.\n\n(b) A threatens Z that he will keep Z’s child in wrongful confinement, unless Z will sign and deliver to A a promissory note binding Z to pay certain monies to A. Z signs and delivers the note. A has committed extortion.\n\n(c) A threatens to send club-men to plough up Z’s field unless Z will sign and deliver to B a bond binding Z under a penalty to deliver certain produce to B, and thereby induces Z to sign and deliver the bond. A has committed extortion.\n\n(d) A, by putting Z in fear of grievous hurt, dishonestly induces Z to sign or affix his seal to a blank paper and deliver it to A. Z signs and delivers the paper to A. Here, as the paper so signed may be converted into a valuable security. A has committed extortion.\n\n(e) A threatens Z by sending a message through an electronic device that “Your child is in my possession, and will be put to death unless you send me one lakh rupees.” A thus induces Z to give him money. A has committed extortion.\n\n(2) Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.\n\n(3) Whoever, in order to the committing of extortion, puts any person in fear, or attempts to put any person in fear, of any injury, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n\n(4) Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n\n(5) Whoever commits extortion by putting any person in fear of death or of grievous hurt to that person or to any other, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.\n\n(6) Whoever, in order to the committing of extortion, puts or attempts to put any person in fear of an accusation, against that person or any other, of having committed, or attempted to commit, an offence punishable with death or with imprisonment for life, or with imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.\n\n(7) Whoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed or attempted to commit any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Extortion is obtaining property by fear: threats of injury — physical, reputational or otherwise — that make the victim hand something over. Unlike theft, the victim delivers the property; unlike robbery, the fear need not be of instant harm.",
+  "keyPoints": [
+   "Property is delivered under fear of injury — delivery distinguishes it from theft",
+   "Threats can target the victim or anyone they care about",
+   "Punishment scales with the threat, up to and including threats of death or grievous hurt"
+  ],
+  "relatedSectionIds": [
+   "bns-309",
+   "bns-351",
+   "bns-303"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "dishonestly"
+  ],
+  "keywords": [
+   "extortion",
+   "threat",
+   "ransom",
+   "blackmail",
+   "hafta"
+  ],
+  "curated": true,
+  "example": "\"Pay ₹50,000 or your shop burns\" — money handed over under that threat is extortion. If the threat is of instant violence face-to-face, the offence escalates to robbery.",
+  "ipcLabel": "IPC 383 · 384"
+ },
+ {
+  "id": "bns-309",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "309",
+  "sortIndex": 3090,
+  "title": "Robbery",
+  "officialText": "(1) In all robbery there is either theft or extortion.\n\n(2) Theft is robbery if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint.\n\n(3) Extortion is robbery if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint to that person or to some other person, and, by so putting in fear, induces the person so put in fear then and there to deliver up the thing extorted.\n\nExplanation.—The offender is said to be present if he is sufficiently near to put the other person in fear of instant death, of instant hurt, or of instant wrongful restraint.\n\nIllustrations.\n\n(a) A holds Z down, and fraudulently takes Z’s money and jewels from Z’s clothes, without Z’s consent. Here A has committed theft, and, in order to the committing of that theft, has voluntarily caused wrongful restraint to Z. A has therefore committed robbery.\n\n(b) A meets Z on the high road, shows a pistol, and demands Z’s purse. Z, in consequence, surrenders his purse. Here A has extorted the purse from Z by putting him in fear of instant hurt, and being at the time of committing the extortion in his presence. A has therefore committed robbery.\n\n(c) A meets Z and Z’s child on the high road. A takes the child, and threatens to fling it down a precipice, unless Z delivers his purse. Z, in consequence, delivers his purse. Here A has extorted the purse from Z, by causing Z to be in fear of instant hurt to the child who is there present. A has therefore committed robbery on Z.\n\n(d) A obtains property from Z by saying—“Your child is in the hands of my gang, and will be put to death unless you send us ten thousand rupees”. This is extortion, and punishable as such; but it is not robbery, unless Z is put in fear of the instant death of his child.\n\n(4) Whoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.\n\n(5) Whoever attempts to commit robbery shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.\n\n(6) If any person, in committing or in attempting to commit robbery, voluntarily causes hurt, such person, and any other person jointly concerned in committing or attempting to commit such robbery, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Robbery is theft or extortion turned violent and immediate. Theft becomes robbery when the thief causes or threatens instant death, hurt or restraint to pull it off; extortion becomes robbery when the offender is present and the fear is of instant harm.",
+  "keyPoints": [
+   "Robbery is theft or extortion plus violence, or fear of instant violence",
+   "The violence must be for the very purpose of the taking or the escape",
+   "Rigorous imprisonment up to ten years; up to fourteen for highway robbery between sunset and sunrise"
+  ],
+  "relatedSectionIds": [
+   "bns-303",
+   "bns-308",
+   "bns-310"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "cognizable"
+  ],
+  "keywords": [
+   "robbery",
+   "loot",
+   "violence",
+   "mugging"
+  ],
+  "curated": true,
+  "example": "Two men corner a delivery agent; one twists his arm while the other takes the cash bag. The hurt caused in order to take the property makes this robbery.",
+  "ipcLabel": "IPC 390 · 392"
+ },
+ {
+  "id": "bns-310",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "310",
+  "sortIndex": 3100,
+  "title": "Dacoity",
+  "officialText": "(1) When five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting to commit a robbery, and persons present and aiding such commission or attempt, amount to five or more, every person so committing, attempting or aiding, is said to commit dacoity.\n\n(2) Whoever commits dacoity shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.\n\n(3) If any one of five or more persons, who are conjointly committing dacoity, commits murder in so committing dacoity, every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment for a term which shall not be less than ten years, and shall also be liable to fine.\n\n(4) Whoever makes any preparation for committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.\n\n(5) Whoever is one of five or more persons assembled for the purpose of committing dacoity, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.\n\n(6) Whoever belongs to a gang of persons associated for the purpose of habitually committing dacoity, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Robbery by a group of five or more — counting those who aid on the spot — is dacoity, one of the gravest property offences. Every member present and participating is equally liable, and even preparation is punishable.",
+  "keyPoints": [
+   "Five or more persons acting together turns robbery into dacoity",
+   "Aiders present at the scene count toward the five",
+   "Punishment: imprisonment for life, or rigorous imprisonment up to ten years, with fine"
+  ],
+  "relatedSectionIds": [
+   "bns-309",
+   "bns-303"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "dacoity",
+   "gang",
+   "robbery",
+   "armed",
+   "loot"
+  ],
+  "curated": true,
+  "example": "Five men storm a highway dhaba at night, two waving weapons while three empty the till. All five commit dacoity, including the lookouts.",
+  "ipcLabel": "IPC 391 · 395"
+ },
+ {
+  "id": "bns-311",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "311",
+  "sortIndex": 3110,
+  "title": "Robbery, or dacoity, with attempt to cause death or grievous hurt",
+  "officialText": "If, at the time of committing robbery or dacoity, the offender uses any deadly weapon, or causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, the imprisonment with which such offender shall be punished shall not be less than seven years.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "robbery",
+   "dacoity",
+   "attempt",
+   "cause",
+   "death",
+   "grievous"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-312",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "312",
+  "sortIndex": 3120,
+  "title": "Attempt to commit robbery or dacoity when armed with deadly weapon",
+  "officialText": "If, at the time of attempting to commit robbery or dacoity, the offender is armed with any deadly weapon, the imprisonment with which such offender shall be punished shall not be less than seven years.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "attempt",
+   "robbery",
+   "dacoity",
+   "armed",
+   "deadly",
+   "weapon"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-313",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "313",
+  "sortIndex": 3130,
+  "title": "Punishment for belonging to gang of robbers, etc",
+  "officialText": "Whoever belongs to any gang of persons associated in habitually committing theft or robbery, and not being a gang of dacoits, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "punishment",
+   "belonging",
+   "gang",
+   "robbers"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-314",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "314",
+  "sortIndex": 3140,
+  "title": "Dishonest misappropriation of property",
+  "officialText": "Whoever dishonestly misappropriates or converts to his own use any movable property, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to two years and with fine.\n\nIllustrations.\n\n(a) A takes property belonging to Z out of Z’s possession, in good faith believing at the time when he takes it, that the property belongs to himself. A is not guilty of theft; but if A, after discovering his mistake, dishonestly appropriates the property to his own use, he is guilty of an offence under this section.\n\n(b) A, being on friendly terms with Z, goes into Z’s library in Z’s absence, and takes away a book without Z’s express consent. Here, if A was under the impression that he had Z’s implied consent to take the book for the purpose of reading it, A has not committed theft. But, if A afterwards sells the book for his own benefit, he is guilty of an offence under this section.\n\n(c) A and B, being, joint owners of a horse. A takes the horse out of B’s possession, intending to use it. Here, as A has a right to use the horse, he does not dishonestly misappropriate it. But, if A sells the horse and appropriates the whole proceeds to his own use, he is guilty of an offence under this section.\n\nExplanation 1.—A dishonest misappropriation for a time only is a misappropriation within the meaning of this section.\n\nIllustration.\n\nA finds a Government promissory note belonging to Z, bearing a blank endorsement. A, knowing that the note belongs to Z, pledges it with a banker as a security for a loan, intending at a future time to restore it to Z. A has committed an offence under this section.\n\nExplanation 2.—A person who finds property not in the possession of any other person, and takes such property for the purpose of protecting it for, or of restoring it to, the owner, does not take or misappropriate it dishonestly, and is not guilty of an offence; but he is guilty of the offence above defined, if he appropriates it to his own use, when he knows or has the means of discovering the owner, or before he has used reasonable means to discover and give notice to the owner and has kept the property a reasonable time to enable the owner to claim it. What are reasonable means or what is a reasonable time in such a case, is a question of fact. It is not necessary that the finder should know who is the owner of the property, or that any particular person is the owner of it; it is sufficient if, at the time of appropriating it, he does not believe it to be his own property, or in good faith believe that the real owner cannot be found.\n\nIllustrations.\n\n(a) A finds a rupee on the high road, not knowing to whom the rupee belongs, A picks up the rupee. Here A has not committed the offence defined in this section.\n\n(b) A finds a letter on the road, containing a bank-note. From the direction and contents of the letter he learns to whom the note belongs. He appropriates the note. He is guilty of an offence under this section.\n\n(c) A finds a cheque payable to bearer. He can form no conjecture as to the person who has lost the cheque. But the name of the person, who has drawn the cheque, appears. A knows that this person can direct him to the person in whose favour the cheque was drawn. A appropriates the cheque without attempting to discover the owner. He is guilty of an offence under this section.\n\n(d) A sees Z drop his purse with money in it. A picks up the purse with the intention of restoring it to Z, but afterwards appropriates it to his own use. A has committed an offence under this section.\n\n(e) A finds a purse with money, not knowing to whom it belongs; he afterwards discovers that it belongs to Z, and appropriates it to his own use. A is guilty of an offence under this section.\n\n(f) A finds a valuable ring, not knowing to whom it belongs. A sells it immediately without attempting to discover the owner. A is guilty of an offence under this section.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "dishonest",
+   "misappropriation",
+   "property"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-315",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "315",
+  "sortIndex": 3150,
+  "title": "Dishonest misappropriation of property possessed by deceased person at the time of his death",
+  "officialText": "Whoever dishonestly misappropriates or converts to his own use any property, knowing that such property was in the possession of a deceased person at the time of that person’s decease, and has not since been in the possession of any person legally entitled to such possession, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine, and if the offender at the time of such person’s decease was employed by him as a clerk or servant, the imprisonment may extend to seven years.\n\nIllustration.\n\nZ dies in possession of furniture and money. His servant A, before the money comes into the possession of any person entitled to such possession, dishonestly misappropriates it. A has committed the offence defined in this section.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "dishonest",
+   "misappropriation",
+   "property",
+   "possessed",
+   "deceased",
+   "person"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-316",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "316",
+  "sortIndex": 3160,
+  "title": "Criminal breach of trust",
+  "officialText": "(1) Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits criminal breach of trust.\n\nExplanation 1.—A person, being an employer of an establishment whether exempted under section 17 of the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952 or not who deducts the employee’s contribution from the wages payable to the employee for credit to a Provident Fund or Family Pension Fund established by any law for the time being in force, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said law, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.\n\nExplanation 2.—A person, being an employer, who deducts the employees’ contribution from the wages payable to the employee for credit to the Employees’ State Insurance Fund held and administered by the Employees’ State Insurance Corporation established under the Employees’ State Insurance Act, 1948 shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said Act, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid.\n\nIllustrations.\n\n(a) A, being executor to the will of a deceased person, dishonestly disobeys the law which directs him to divide the effects according to the will, and appropriates them to his own use. A has committed criminal breach of trust.\n\n(b) A is a warehouse-keeper Z going on a journey, entrusts his furniture to A, under a contract that it shall be returned on payment of a stipulated sum for warehouse room. A dishonestly sells the goods. A has committed criminal breach of trust.\n\n(c) A, residing in Kolkata, is agent for Z, residing at Delhi. There is an express or implied contract between A and Z, that all sums remitted by Z to A shall be invested by A, according to Z’s direction. Z remits one lakh of rupees to A, with directions to A to invest the same in Company’s paper. A dishonestly disobeys the directions and employs the money in his own business. A has committed criminal breach of trust.\n\n(d) But if A, in illustration (c), not dishonestly but in good faith, believing that it will be more for Z’s advantage to hold shares in the Bank of Bengal, disobeys Z’s directions, and buys shares in the Bank of Bengal, for Z, instead of buying Company’s paper, here, though Z should suffer loss, and should be entitled to bring a civil action against A, on account of that loss, yet A, not having acted dishonestly, has not committed criminal breach of trust.\n\n(e) A, a revenue-officer, is entrusted with public money and is either directed by law, or bound by a contract, express or implied, with the Government, to pay into a certain treasury all the public money which he holds. A dishonestly appropriates the money. A has committed criminal breach of trust.\n\n(f) A, a carrier, is entrusted by Z with property to be carried by land or by water. A dishonestly misappropriates the property. A has committed criminal breach of trust.\n\n(2) Whoever commits criminal breach of trust shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.\n\n(3) Whoever, being entrusted with property as a carrier, wharfinger or warehouse-keeper, commits criminal breach of trust in respect of such property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n\n(4) Whoever, being a clerk or servant or employed as a clerk or servant, and being in any manner entrusted in such capacity with property, or with any dominion over property, commits criminal breach of trust in respect of that property, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.\n\n(5) Whoever, being in any manner entrusted with property, or with any dominion over property in his capacity of a public servant or in the way of his business as a banker, merchant, factor, broker, attorney or agent commits criminal breach of trust in respect of that property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "This offence begins with trust: property handed over for a purpose — by an employer, a client, a family member — and then dishonestly pocketed or diverted. The betrayal of entrustment is what separates it from theft. Punishments rise with the degree of trust, up to life imprisonment for public servants and bankers.",
+  "keyPoints": [
+   "Requires entrustment — the accused lawfully held the property first",
+   "Basic punishment raised to five years under the BNS (three under IPC 406)",
+   "Aggravated forms: employees up to ten years; public servants and bankers up to life"
+  ],
+  "relatedSectionIds": [
+   "bns-318",
+   "bns-317",
+   "bns-303"
+  ],
+  "caseLawIds": [
+   "rashmi-kumar"
+  ],
+  "definitionIds": [
+   "dishonestly",
+   "stridhan"
+  ],
+  "keywords": [
+   "breach of trust",
+   "misappropriation",
+   "embezzlement",
+   "entrusted",
+   "funds"
+  ],
+  "curated": true,
+  "example": "A housing-society treasurer collects maintenance money from residents and quietly moves it into his personal account. He was entrusted with the funds; diverting them is criminal breach of trust.",
+  "ipcLabel": "IPC 405 · 406"
+ },
+ {
+  "id": "bns-317",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "317",
+  "sortIndex": 3170,
+  "title": "Stolen property",
+  "officialText": "(1) Property, the possession whereof has been transferred by theft or extortion or robbery or cheating, and property which has been criminally misappropriated or in respect of which criminal breach of trust has been committed, is designated as stolen property, whether the transfer has been made, or the misappropriation or breach of trust has been committed, within or without India, but, if such property subsequently comes into the possession of a person legally entitled to the possession thereof, it then ceases to be stolen property.\n\n(2) Whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.\n\n(3) Whoever dishonestly receives or retains any stolen property, the possession whereof he knows or has reason to believe to have been transferred by the commission of dacoity, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged to a gang of dacoits, property which he knows or has reason to believe to have been stolen, shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine.\n\n(4) Whoever habitually receives or deals in property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.\n\n(5) Whoever voluntarily assists in concealing or disposing of or making away with property which he knows or has reason to believe to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "Buying or keeping goods you know — or should know — are stolen is itself an offence. The law targets the market that makes theft profitable. 'Stolen property' covers the proceeds of theft, extortion, robbery, cheating and breach of trust.",
+  "keyPoints": [
+   "Knowingly receiving or retaining stolen goods: up to three years, or fine, or both",
+   "'Reason to believe' is enough — wilful blindness is no defence",
+   "Property ceases to be stolen once restored to the rightful owner"
+  ],
+  "relatedSectionIds": [
+   "bns-303",
+   "bns-318",
+   "bns-316"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "dishonestly"
+  ],
+  "keywords": [
+   "stolen property",
+   "receiver",
+   "buy",
+   "secondhand"
+  ],
+  "curated": true,
+  "example": "A dealer buys a nearly new phone for a tenth of its price from a stranger with no box or bill. The suspicious circumstances give 'reason to believe' it is stolen — receiving it is an offence.",
+  "ipcLabel": "IPC 410 · 411"
+ },
+ {
+  "id": "bns-318",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "318",
+  "sortIndex": 3180,
+  "title": "Cheating",
+  "officialText": "(1) Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.\n\nExplanation.—A dishonest concealment of facts is a deception within the meaning of this section.\n\nIllustrations.\n\n(a) A, by falsely pretending to be in the Civil Service, intentionally deceives Z, and thus dishonestly induces Z to let him have on credit goods for which he does not mean to pay. A cheats.\n\n(b) A, by putting a counterfeit mark on an article, intentionally deceives Z into a belief that this article was made by a certain celebrated manufacturer, and thus dishonestly induces Z to buy and pay for the article. A cheats.\n\n(c) A, by exhibiting to Z a false sample of an article intentionally deceives Z into believing that the article corresponds with the sample, and thereby dishonestly induces Z to buy and pay for the article. A cheats.\n\n(d) A, by tendering in payment for an article a bill on a house with which A keeps no money, and by which A expects that the bill will be dishonoured, intentionally deceives Z, and thereby dishonestly induces Z to deliver the article, intending not to pay for it. A cheats.\n\n(e) A, by pledging as diamonds articles which he knows are not diamonds, intentionally deceives Z, and thereby dishonestly induces Z to lend money. A cheats.\n\n(f) A intentionally deceives Z into a belief that A means to repay any money that Z may lend to him and thereby dishonestly induces Z to lend him money, A not intending to repay it. A cheats.\n\n(g) A intentionally deceives Z into a belief that A means to deliver to Z a certain quantity of indigo plant which he does not intend to deliver, and thereby dishonestly induces Z to advance money upon the faith of such delivery. A cheats; but if A, at the time of obtaining the money, intends to deliver the indigo plant, and afterwards breaks his contract and does not deliver it, he does not cheat, but is liable only to a civil action for breach of contract.\n\n(h) A intentionally deceives Z into a belief that A has performed A ’s part of a contract made with Z, which he has not performed, and thereby dishonestly induces Z to pay money. A cheats.\n\n(i) A sells and conveys an estate to B. A, knowing that in consequence of such sale he has no right to the property, sells or mortgages the same to Z, without disclosing the fact of the previous sale and conveyance to B, and receives the purchase or mortgage money from Z. A cheats.\n\n(2) Whoever cheats shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.\n\n(3) Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest in the transaction to which the cheating relates, he was bound, either by law, or by a legal contract, to protect, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.\n\n(4) Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Cheating is deception that makes someone part with property or act to their own harm. Two things must exist together: a lie (or dishonest concealment) and an inducement that causes damage. The gravest form — deceiving someone into delivering property, the old 'Section 420' — sits in sub-section (4) with up to seven years.",
+  "keyPoints": [
+   "Deception, inducement and harm must all be present",
+   "Dishonest concealment of facts counts as deception",
+   "Sub-section (4) is the old IPC 420 — property delivered by deception, up to seven years",
+   "A promise that fails later is not cheating unless the dishonest intention existed at the start"
+  ],
+  "relatedSectionIds": [
+   "bns-319",
+   "bns-316",
+   "bns-336",
+   "bns-317"
+  ],
+  "caseLawIds": [
+   "hridaya-ranjan"
+  ],
+  "definitionIds": [
+   "dishonestly",
+   "fraudulently"
+  ],
+  "keywords": [
+   "cheating",
+   "420",
+   "fraud",
+   "scam",
+   "deceive",
+   "dhokha",
+   "money"
+  ],
+  "curated": true,
+  "example": "A man collects ₹2 lakh as 'advance booking' for flats in a project he knows does not exist, then vanishes. The deception existed from the start and induced delivery of money — cheating under sub-section (4). If a genuine builder simply ran late, that would be breach of contract, not cheating.",
+  "ipcLabel": "IPC 415 · 417 · 420"
+ },
+ {
+  "id": "bns-319",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "319",
+  "sortIndex": 3190,
+  "title": "Cheating by personation",
+  "officialText": "(1) A person is said to cheat by personation if he cheats by pretending to be some other person, or by knowingly substituting one person for or another, or representing that he or any other person is a person other than he or such other person really is.\n\nExplanation.—The offence is committed whether the individual personated is a real or imaginary person.\n\nIllustrations.\n\n(a) A cheats by pretending to be a certain rich banker of the same name. A cheats by personation.\n\n(b) A cheats by pretending to be B, a person who is deceased. A cheats by personation.\n\n(2) Whoever cheats by personation shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "Cheating while pretending to be someone else — a bank officer, a police official, a relative, even a person who doesn't exist — is a distinct, graver form of cheating. Done through a phone or computer, it is separately punishable under Section 66D of the IT Act.",
+  "keyPoints": [
+   "Cheating plus a false identity equals cheating by personation",
+   "The impersonated person may be real or imaginary",
+   "Up to five years; online impersonation adds IT Act 66D"
+  ],
+  "relatedSectionIds": [
+   "bns-318",
+   "it-66d",
+   "it-66c"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "fraudulently"
+  ],
+  "keywords": [
+   "impersonation",
+   "personation",
+   "fake identity",
+   "posing",
+   "otp",
+   "fraud call"
+  ],
+  "curated": true,
+  "example": "A caller poses as a bank's fraud officer and talks a customer into revealing an OTP, draining her account. Pretending to be another person in order to cheat is cheating by personation; through a phone it also triggers IT Act Section 66D.",
+  "ipcLabel": "IPC 416"
+ },
+ {
+  "id": "bns-320",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "320",
+  "sortIndex": 3200,
+  "title": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors",
+  "officialText": "Whoever dishonestly or fraudulently removes, conceals or delivers to any person, or transfers or causes to be transferred to any person, without adequate consideration, any property, intending thereby to prevent, or knowing it to be likely that he will thereby prevent, the distribution of that property according to law among his creditors or the creditors of any other person, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to two years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "A debtor who hides or gives away property so that creditors cannot lawfully recover it commits this offence. The law protects the legal process of distributing a debtor's property — moving assets to a relative ‘on paper’ to defeat recovery is the classic case.",
+  "keyPoints": [
+   "Targets moving, hiding or transferring property to defeat creditors",
+   "The transfer must be dishonest or fraudulent and without adequate consideration",
+   "Punishable with imprisonment up to two years, or fine, or both"
+  ],
+  "relatedSectionIds": [
+   "bns-316",
+   "bns-318"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "dishonestly",
+   "fraudulently"
+  ],
+  "keywords": [
+   "creditors",
+   "fraudulent transfer",
+   "concealment",
+   "debtor",
+   "property"
+  ],
+  "curated": true,
+  "example": "Facing recovery proceedings, a businessman ‘gifts’ his car and shop stock to a cousin so the court can find nothing to attach. That transfer can amount to this offence.",
+  "ipcLabel": "IPC 421"
+ },
+ {
+  "id": "bns-321",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "321",
+  "sortIndex": 3210,
+  "title": "Dishonestly or fraudulently preventing debt being available for creditors",
+  "officialText": "Whoever dishonestly or fraudulently prevents any debt or demand due to himself or to any other person from being made available according to law for payment of his debts or the debts of such other person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "dishonestly",
+   "fraudulently",
+   "preventing",
+   "debt",
+   "available",
+   "creditors"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-322",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "322",
+  "sortIndex": 3220,
+  "title": "Dishonest or fraudulent execution of deed of transfer containing false statement o f consideration",
+  "officialText": "Whoever dishonestly or fraudulently signs, executes or becomes a party to any deed or instrument which purports to transfer or subject to any charge any property, or any interest therein, and which contains any false statement relating to the consideration for such transfer or charge, or relating to the person or persons for whose use or benefit it is really intended to operate, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "dishonest",
+   "fraudulent",
+   "execution",
+   "deed",
+   "transfer",
+   "containing"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-323",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "323",
+  "sortIndex": 3230,
+  "title": "Dishonest or fraudulent removal or concealment of property",
+  "officialText": "Whoever dishonestly or fraudulently conceals or removes any property of himself or any other person, or dishonestly or fraudulently assists in the concealment or removal thereof, or dishonestly releases any demand or claim to which he is entitled, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "dishonest",
+   "fraudulent",
+   "removal",
+   "concealment",
+   "property"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-324",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "324",
+  "sortIndex": 3240,
+  "title": "Mischief",
+  "officialText": "(1) Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief.\n\nExplanation 1.—It is not essential to the offence of mischief that the offender should intend to cause loss or damage to the owner of the property injured or destroyed. It is sufficient if he intends to cause, or knows that he is likely to cause, wrongful loss or damage to any person by injuring any property, whether it belongs to that person or not.\n\nExplanation 2.—Mischief may be committed by an act affecting property belonging to the person who commits the act, or to that person and others jointly.\n\nIllustrations.\n\n(a) A voluntarily burns a valuable security belonging to Z intending to cause wrongful loss to Z. A has committed mischief.\n\n(b) A introduces water into an ice-house belonging to Z and thus causes the ice to melt, intending wrongful loss to Z. A has committed mischief.\n\n(c) A voluntarily throws into a river a ring belonging to Z, with the intention of thereby causing wrongful loss to Z. A has committed mischief.\n\n(d) A, knowing that his effects are about to be taken in execution in order to satisfy a debt due from him to Z, destroys those effects, with the intention of thereby preventing Z from obtaining satisfaction of the debt, and of thus causing damage to Z. A has committed mischief.\n\n(e) A having insured a ship, voluntarily causes the same to be cast away, with the intention of causing damage to the underwriters. A has committed mischief.\n\n(f) A causes a ship to be cast away, intending thereby to cause damage to Z who has lent money on bottomry on the ship. A has committed mischief.\n\n(g) A, having joint property with Z in a horse, shoots the horse, intending thereby to cause wrongful loss to Z. A has committed mischief.\n\n(h) A causes cattle to enter upon a field belonging to Z, intending to cause and knowing that he is likely to cause damage to Z’s crop. A has committed mischief.\n\n(2) Whoever commits mischief shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.\n\n(3) Whoever commits mischief and thereby causes loss or damage to any property including the property of Government or Local Authority shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.\n\n(4) Whoever commits mischief and thereby causes loss or damage to the amount of twenty thousand rupees and more but less than one lakh rupees shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n\n(5) Whoever commits mischief and thereby causes loss or damage to the amount of one lakh rupees or upwards, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.\n\n(6) Whoever commits mischief, having made preparation for causing to any person death, or hurt, or wrongful restraint, or fear of death, or of hurt, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Mischief is the offence of damaging property — breaking, defacing, disabling, or otherwise reducing its value or usefulness — with intent or knowledge of the loss it causes. Punishments scale with the damage.",
+  "keyPoints": [
+   "Protects property from deliberate damage, not taking",
+   "Intent or knowledge of wrongful loss is essential — accidents are not mischief",
+   "Punishment scales with the amount and nature of the damage"
+  ],
+  "relatedSectionIds": [
+   "bns-329",
+   "bns-303"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "wrongful-gain"
+  ],
+  "keywords": [
+   "mischief",
+   "damage",
+   "vandalism",
+   "destroy",
+   "property damage"
+  ],
+  "curated": true,
+  "example": "Slashing a rival shopkeeper's delivery-van tyres overnight is mischief: deliberate damage that diminishes the van's utility.",
+  "ipcLabel": "IPC 425 · 426"
+ },
+ {
+  "id": "bns-325",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "325",
+  "sortIndex": 3250,
+  "title": "Mischief by killing or maiming animal",
+  "officialText": "Whoever commits mischief by killing, poisoning, maiming or rendering useless any animal shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "mischief",
+   "killing",
+   "maiming",
+   "animal"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-326",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "326",
+  "sortIndex": 3260,
+  "title": "Mischief by injury, inundation, fire or explosive substance, etc",
+  "officialText": "Whoever commits mischief by,—\n\n(a) doing any act which causes, or which he knows to be likely to cause, a diminution of the supply of water for agricultural purposes, or for food or drink for human beings or for animals which are property, or for cleanliness or for carrying on any manufacture, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both;\n\n(b) doing any act which renders or which he knows to be likely to render any public road, bridge, navigable river or navigable channel, natural or artificial, impassable or less safe for travelling or conveying property, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both;\n\n(c) doing any act which causes or which he knows to be likely to cause an inundation or an obstruction to any public drainage attended with injury or damage, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both;\n\n(d) destroying or moving any sign or signal used for navigation of rail, aircraft or ship or other thing placed as a guide for navigators, or by any act which renders any such sign or signal less useful as a guide for navigators, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both;\n\n(e) destroying or moving any land-mark fixed by the authority of a public servant, or by any act which renders such land-mark less useful as such, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both;\n\n(f) fire or any explosive substance intending to cause, or knowing it to be likely that he will thereby cause, damage to any property including agricultural produce, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine;\n\n(g) fire or any explosive substance, intending to cause, or knowing it to be likely that he will thereby cause, the destruction of any building which is ordinarily used as a place of worship or as a human dwelling or as a place for the custody of property, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "mischief",
+   "injury",
+   "inundation",
+   "fire",
+   "explosive",
+   "substance"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-327",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "327",
+  "sortIndex": 3270,
+  "title": "Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden",
+  "officialText": "(1) Whoever commits mischief to any rail, aircraft, or a decked vessel or any vessel of a burden of twenty tons or upwards, intending to destroy or render unsafe, or knowing it to be likely that he will thereby destroy or render unsafe, that rail, aircraft or vessel, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.\n\n(2) Whoever commits, or attempts to commit, by fire or any explosive substance, such mischief as is described in sub-section (1), shall be punished with imprisonment for life or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "mischief",
+   "intent",
+   "destroy",
+   "make",
+   "unsafe",
+   "rail"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-328",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "328",
+  "sortIndex": 3280,
+  "title": "Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc",
+  "officialText": "Whoever intentionally runs any vessel aground or ashore, intending to commit theft of any property contained therein or to dishonestly misappropriate any such property, or with intent that such theft or misappropriation of property may be committed, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "punishment",
+   "intentionally",
+   "running",
+   "vessel",
+   "aground",
+   "ashore"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-329",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "329",
+  "sortIndex": 3290,
+  "title": "Criminal trespass and house-trespass",
+  "officialText": "(1) Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person or with intent to commit an offence is said to commit criminal trespass.\n\n(2) Whoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or any building used as a place for worship, or as a place for the custody of property, is said to commit house-trespass.\n\nExplanation.—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-trespass.\n\n(3) Whoever commits criminal trespass shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.\n\n(4) Whoever commits house-trespass shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+  "officialStatus": "full",
+  "explanation": "Entering someone's property intending to commit an offence or to intimidate, insult or annoy them — or lawfully entering and then unlawfully staying with that intent — is criminal trespass. Do it in a dwelling, place of worship or property-custody building and it becomes house-trespass, punished more severely.",
+  "keyPoints": [
+   "Intent matters: entry to commit an offence or to intimidate, insult or annoy",
+   "Overstaying after lawful entry can also be trespass",
+   "House-trespass — dwellings and places of worship — is punished more severely"
+  ],
+  "relatedSectionIds": [
+   "bns-324",
+   "bns-308"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "trespass",
+   "enter",
+   "house",
+   "property",
+   "possession",
+   "intrude"
+  ],
+  "curated": true,
+  "example": "A recovery agent barges into a debtor's home and refuses to leave, shouting threats. Entering another's dwelling to intimidate is house-trespass — regardless of whether any debt is genuinely owed.",
+  "ipcLabel": "IPC 441 · 442 · 447"
+ },
+ {
+  "id": "bns-330",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "330",
+  "sortIndex": 3300,
+  "title": "House-trespass and house- breaking",
+  "officialText": "(1) Whoever commits house-trespass having taken precautions to conceal such house-trespass from some person who has a right to exclude or eject the trespasser from the building, tent or vessel which is the subject of the trespass, is said to commit lurking house-trespass.\n\n(2) A person is said to commit house-breaking who commits house-trespass if he effects his entrance into the house or any part of it in any of the six ways hereinafter described; or if, being in the house or any part of it for the purpose of committing an offence, or having committed an offence therein, he quits the house or any part of it in any of the following ways, namely:—\n\n(a) if he enters or quits through a passage made by himself, or by any abettor of the house-trespass, in order to the committing of the house-trespass;\n\n(b) if he enters or quits through any passage not intended by any person, other than himself or an abettor of the offence, for human entrance; or through any passage to which he has obtained access by scaling or climbing over any wall or building;\n\n(c) if he enters or quits through any passage which he or any abettor of the house-trespass has opened, in order to the committing of the house-trespass by any means by which that passage was not intended by the occupier of the house to be opened;\n\n(d) if he enters or quits by opening any lock in order to the committing of the house-trespass, or in order to the quitting of the house after a house-trespass;\n\n(e) if he effects his entrance or departure by using criminal force or committing an assault, or by threatening any person with assault;\n\n(f) if he enters or quits by any passage which he knows to have been fastened against such entrance or departure, and to have been unfastened by himself or by an abettor of the house-trespass.\n\nExplanation.—Any out-house or building occupied with a house, and between which and such house there is an immediate internal communication, is part of the house within the meaning of this section.\n\nIllustrations.\n\n(a) A commits house-trespass by making a hole through the wall of Z’s house, and putting his hand through the aperture. This is house-breaking.\n\n(b) A commits house-trespass by creeping into a ship at a port-hole between decks. This is house-breaking.\n\n(c) A commits house-trespass by entering Z’s house through a window. This is house-breaking.\n\n(d) A commits house-trespass by entering Z’s house through the door, having opened a door which was fastened. This is house-breaking.\n\n(e) A commits house-trespass by entering Z’s house through the door, having lifted a latch by putting a wire through a hole in the door. This is house-breaking.\n\n(f) A finds the key of Z’s house door, which Z had lost, and commits house-trespass by entering Z’s house, having opened the door with that key. This is house-breaking.\n\n(g) Z is standing in his doorway. A forces a passage by knocking Z down, and commits house-trespass by entering the house. This is house-breaking.\n\n(h) Z, the door-keeper of Y, is standing in Y’s doorway. A commits house-trespass by entering the house, having deterred Z from opposing him by threatening to beat him. This is house-breaking.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "house",
+   "trespass",
+   "breaking"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-331",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "331",
+  "sortIndex": 3310,
+  "title": "Punishment for house-trespass or house- breaking",
+  "officialText": "(1) Whoever commits lurking house-trespass or house-breaking, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.\n\n(2) Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.\n\n(3) Whoever commits lurking house-trespass or house-breaking, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; and if the offence intended to be committed is theft, the term of the imprisonment may be extended to ten years.\n\n(4) Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and, if the offence intended to be committed is theft, the term of the imprisonment may be extended to fourteen years.\n\n(5) Whoever commits lurking house-trespass, or house-breaking, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or of assault or of wrongful restraint, shall be punished with imprisonment of either description or a term which may extend to ten years, and shall also be liable to fine.\n\n(6) Whoever commits lurking house-trespass or house-breaking after sunset and before sunrise, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to fourteen years, and shall also be liable to fine.\n\n(7) Whoever, whilst committing lurking house-trespass or house-breaking, causes grievous hurt to any person or attempts to cause death or grievous hurt to any person, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.\n\n(8) If, at the time of the committing of lurking house-trespass or house-breaking after sunset and before sunrise, any person guilty of such offence shall voluntarily cause or attempt to cause death or grievous hurt to any person, every person jointly concerned in committing such lurking house-trespass or house-breaking after sunset and before sunrise, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "punishment",
+   "house",
+   "trespass",
+   "breaking"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-332",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "332",
+  "sortIndex": 3320,
+  "title": "House-trespass in order to commit offence",
+  "officialText": "Whoever commits house-trespass in order to the committing of any offence—\n\n(a) punishable with death, shall be punished with imprisonment for life, or with rigorous imprisonment for a term not exceeding ten years, and shall also be liable to fine;\n\n(b) punishable with imprisonment for life, shall be punished with imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine;\n\n(c) punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine:\n\nProvided that if the offence intended to be committed is theft, the term of the imprisonment may be extended to seven years.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "house",
+   "trespass",
+   "order",
+   "offence"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-333",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "333",
+  "sortIndex": 3330,
+  "title": "House-trespass after preparation for hurt, assault or wrongful restraint",
+  "officialText": "Whoever commits house-trespass, having made preparation for causing hurt to any person or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt, or of assault, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "house",
+   "trespass",
+   "preparation",
+   "hurt",
+   "assault",
+   "wrongful"
+  ],
+  "curated": false
+ },
+ {
+  "id": "bns-334",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "334",
+  "sortIndex": 3340,
+  "title": "Dishonestly breaking open receptacle containing property",
+  "officialText": "(1) Whoever dishonestly or with intent to commit mischief, breaks open or unfastens any closed receptacle which contains or which he believes to contain property, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.\n\n(2) Whoever, being entrusted with any closed receptacle which contains or which he believes to contain property, without having authority to open the same, dishonestly, or with intent to commit mischief, breaks open or unfastens that receptacle, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "The plain-language LexIndia guide for this section is being prepared. The official text above is the authoritative wording of the law.",
+  "keyPoints": [],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": [
+   "dishonestly",
+   "breaking",
+   "open",
+   "receptacle",
+   "containing",
+   "property"
+  ],
+  "curated": false
+ }
+]

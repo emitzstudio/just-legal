@@ -1,0 +1,597 @@
+{
+  "categories": [
+    { "id": "criminal", "name": "Criminal Law", "tagline": "Offences, procedure and evidence", "actIds": ["bns", "bnss", "bsa"], "extentLabel": "3 codes · 1,059 sections" },
+    { "id": "constitutional", "name": "Constitutional Law", "tagline": "The framework of the Republic", "actIds": ["constitution"], "extentLabel": "The Constitution · 395 Articles" },
+    { "id": "civil", "name": "Civil & Commercial", "tagline": "Contracts, consumers and commerce", "actIds": ["contract-act", "cpa-2019"], "extentLabel": "2 Acts · 345 sections" },
+    { "id": "property", "name": "Property", "tagline": "Ownership, transfer and tenancy", "actIds": ["tpa-1882"], "extentLabel": "1 Act · 137 sections" },
+    { "id": "family", "name": "Family & Personal", "tagline": "Marriage, separation and protection", "actIds": ["hma-1955"], "extentLabel": "1 Act · 30 sections" },
+    { "id": "labour", "name": "Labour", "tagline": "Work, wages and industrial disputes", "actIds": ["ida-1947"], "extentLabel": "1 Act · 40 sections" },
+    { "id": "taxation", "name": "Taxation", "tagline": "Income tax and levies", "actIds": ["ita-1961"], "extentLabel": "1 Act · 298 sections" },
+    { "id": "ip-tech", "name": "IP & Technology", "tagline": "Digital law and intellectual property", "actIds": ["it-act-2000", "copyright-1957"], "extentLabel": "2 Acts · 173 sections" }
+  ],
+  "acts": [
+    {
+      "id": "bns",
+      "name": "Bharatiya Nyaya Sanhita, 2023",
+      "shortName": "BNS",
+      "categoryId": "criminal",
+      "summary": "India's principal criminal code, replacing the Indian Penal Code, 1860. It defines offences — from theft and cheating to murder — and prescribes their punishments.",
+      "status": "available",
+      "extentLabel": "358 sections · 20 chapters",
+      "effectiveLabel": "In force since 1 July 2024",
+      "sourceLabel": "Act No. 45 of 2023",
+      "chapters": [
+        { "id": "bns-ch1", "numeral": "I", "title": "Preliminary", "rangeLabel": "Sections 1–3" },
+        { "id": "bns-ch2", "numeral": "II", "title": "Of Punishments", "rangeLabel": "Sections 4–13" },
+        { "id": "bns-ch3", "numeral": "III", "title": "General Exceptions", "rangeLabel": "Sections 14–44" },
+        { "id": "bns-ch4", "numeral": "IV", "title": "Of Abetment, Criminal Conspiracy and Attempt", "rangeLabel": "Sections 45–62" },
+        { "id": "bns-ch5", "numeral": "V", "title": "Of Offences Against Woman and Child", "rangeLabel": "Sections 63–99" },
+        { "id": "bns-ch6", "numeral": "VI", "title": "Of Offences Affecting the Human Body", "rangeLabel": "Sections 100–146" },
+        { "id": "bns-ch7", "numeral": "VII", "title": "Of Offences Against the State", "rangeLabel": "Sections 147–158" },
+        { "id": "bns-ch8", "numeral": "VIII", "title": "Of Offences Relating to the Army, Navy and Air Force", "rangeLabel": "Sections 159–168" },
+        { "id": "bns-ch9", "numeral": "IX", "title": "Of Offences Relating to Elections", "rangeLabel": "Sections 169–177" },
+        { "id": "bns-ch10", "numeral": "X", "title": "Of Offences Relating to Coin, Currency-Notes, Bank-Notes and Government Stamps", "rangeLabel": "Sections 178–188" },
+        { "id": "bns-ch11", "numeral": "XI", "title": "Of Offences Against the Public Tranquillity", "rangeLabel": "Sections 189–197" },
+        { "id": "bns-ch12", "numeral": "XII", "title": "Of Offences by or Relating to Public Servants", "rangeLabel": "Sections 198–205" },
+        { "id": "bns-ch13", "numeral": "XIII", "title": "Of Contempts of the Lawful Authority of Public Servants", "rangeLabel": "Sections 206–226" },
+        { "id": "bns-ch14", "numeral": "XIV", "title": "Of False Evidence and Offences Against Public Justice", "rangeLabel": "Sections 227–269" },
+        { "id": "bns-ch15", "numeral": "XV", "title": "Of Offences Affecting the Public Health, Safety, Convenience, Decency and Morals", "rangeLabel": "Sections 270–297" },
+        { "id": "bns-ch16", "numeral": "XVI", "title": "Of Offences Relating to Religion", "rangeLabel": "Sections 298–302" },
+        { "id": "bns-ch17", "numeral": "XVII", "title": "Of Offences Against Property", "rangeLabel": "Sections 303–334" },
+        { "id": "bns-ch18", "numeral": "XVIII", "title": "Of Offences Relating to Documents and to Property Marks", "rangeLabel": "Sections 335–350" },
+        { "id": "bns-ch19", "numeral": "XIX", "title": "Of Criminal Intimidation, Insult and Annoyance", "rangeLabel": "Sections 351–357" },
+        { "id": "bns-ch20", "numeral": "XX", "title": "Repeal and Savings", "rangeLabel": "Section 358" }
+      ]
+    },
+    {
+      "id": "bnss",
+      "name": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "shortName": "BNSS",
+      "categoryId": "criminal",
+      "summary": "The code of criminal procedure — how offences are reported, investigated, tried and appealed. Replaces the Code of Criminal Procedure, 1973.",
+      "status": "preparing",
+      "extentLabel": "531 sections",
+      "effectiveLabel": "In force since 1 July 2024",
+      "sourceLabel": "Act No. 46 of 2023",
+      "chapters": []
+    },
+    {
+      "id": "bsa",
+      "name": "Bharatiya Sakshya Adhiniyam, 2023",
+      "shortName": "BSA",
+      "categoryId": "criminal",
+      "summary": "The law of evidence — what may be proved in court, how, and by whom. Replaces the Indian Evidence Act, 1872.",
+      "status": "preparing",
+      "extentLabel": "170 sections",
+      "effectiveLabel": "In force since 1 July 2024",
+      "sourceLabel": "Act No. 47 of 2023",
+      "chapters": []
+    },
+    {
+      "id": "constitution",
+      "name": "Constitution of India",
+      "shortName": null,
+      "categoryId": "constitutional",
+      "summary": "The supreme law of India: fundamental rights and duties, directive principles, and the structure of the Union and the States.",
+      "status": "preparing",
+      "extentLabel": "395 Articles as enacted · 22 Parts",
+      "effectiveLabel": "In force since 26 January 1950",
+      "sourceLabel": "Adopted 26 November 1949",
+      "chapters": []
+    },
+    {
+      "id": "contract-act",
+      "name": "Indian Contract Act, 1872",
+      "shortName": "Contract Act",
+      "categoryId": "civil",
+      "summary": "How agreements become contracts, when consent is free, and what compensation follows a breach.",
+      "status": "available",
+      "extentLabel": "238 sections",
+      "effectiveLabel": "In force since 1 September 1872",
+      "sourceLabel": "Act No. 9 of 1872",
+      "chapters": [
+        { "id": "ic-ch1", "numeral": "I", "title": "Of the Communication, Acceptance and Revocation of Proposals", "rangeLabel": "Sections 3–9" },
+        { "id": "ic-ch2", "numeral": "II", "title": "Of Contracts, Voidable Contracts and Void Agreements", "rangeLabel": "Sections 10–30" },
+        { "id": "ic-ch3", "numeral": "III", "title": "Of Contingent Contracts", "rangeLabel": "Sections 31–36" },
+        { "id": "ic-ch4", "numeral": "IV", "title": "Of the Performance of Contracts", "rangeLabel": "Sections 37–67" },
+        { "id": "ic-ch5", "numeral": "V", "title": "Of Certain Relations Resembling Those Created by Contract", "rangeLabel": "Sections 68–72" },
+        { "id": "ic-ch6", "numeral": "VI", "title": "Of the Consequences of Breach of Contract", "rangeLabel": "Sections 73–75" },
+        { "id": "ic-ch8", "numeral": "VIII", "title": "Of Indemnity and Guarantee", "rangeLabel": "Sections 124–147" },
+        { "id": "ic-ch9", "numeral": "IX", "title": "Of Bailment", "rangeLabel": "Sections 148–181" },
+        { "id": "ic-ch10", "numeral": "X", "title": "Of Agency", "rangeLabel": "Sections 182–238" }
+      ]
+    },
+    {
+      "id": "cpa-2019",
+      "name": "Consumer Protection Act, 2019",
+      "shortName": "CPA",
+      "categoryId": "civil",
+      "summary": "Consumer rights, unfair trade practices, product liability and the consumer commission system.",
+      "status": "preparing",
+      "extentLabel": "107 sections",
+      "effectiveLabel": "In force since 20 July 2020",
+      "sourceLabel": "Act No. 35 of 2019",
+      "chapters": []
+    },
+    {
+      "id": "tpa-1882",
+      "name": "Transfer of Property Act, 1882",
+      "shortName": "TPA",
+      "categoryId": "property",
+      "summary": "Sale, mortgage, lease, exchange and gift of property between living persons.",
+      "status": "preparing",
+      "extentLabel": "137 sections",
+      "effectiveLabel": "In force since 1 July 1882",
+      "sourceLabel": "Act No. 4 of 1882",
+      "chapters": []
+    },
+    {
+      "id": "hma-1955",
+      "name": "Hindu Marriage Act, 1955",
+      "shortName": "HMA",
+      "categoryId": "family",
+      "summary": "Conditions of a valid marriage, restitution of conjugal rights, judicial separation and divorce.",
+      "status": "preparing",
+      "extentLabel": "30 sections",
+      "effectiveLabel": "In force since 18 May 1955",
+      "sourceLabel": "Act No. 25 of 1955",
+      "chapters": []
+    },
+    {
+      "id": "ida-1947",
+      "name": "Industrial Disputes Act, 1947",
+      "shortName": "ID Act",
+      "categoryId": "labour",
+      "summary": "Machinery for the investigation and settlement of industrial disputes, layoffs and retrenchment.",
+      "status": "preparing",
+      "extentLabel": "40 sections",
+      "effectiveLabel": "In force since 1 April 1947",
+      "sourceLabel": "Act No. 14 of 1947",
+      "chapters": []
+    },
+    {
+      "id": "ita-1961",
+      "name": "Income-tax Act, 1961",
+      "shortName": "IT Act 1961",
+      "categoryId": "taxation",
+      "summary": "The charging, computation, assessment and collection of income tax.",
+      "status": "preparing",
+      "extentLabel": "298 sections",
+      "effectiveLabel": "In force since 1 April 1962",
+      "sourceLabel": "Act No. 43 of 1961",
+      "chapters": []
+    },
+    {
+      "id": "it-act-2000",
+      "name": "Information Technology Act, 2000",
+      "shortName": "IT Act",
+      "categoryId": "ip-tech",
+      "summary": "Electronic records and signatures, intermediaries, and the cyber offences behind most online-fraud cases.",
+      "status": "available",
+      "extentLabel": "94 sections · 13 chapters",
+      "effectiveLabel": "In force since 17 October 2000",
+      "sourceLabel": "Act No. 21 of 2000",
+      "chapters": [
+        { "id": "it-ch9", "numeral": "IX", "title": "Penalties, Compensation and Adjudication", "rangeLabel": "Sections 43–47" },
+        { "id": "it-ch11", "numeral": "XI", "title": "Offences", "rangeLabel": "Sections 65–78" }
+      ]
+    },
+    {
+      "id": "copyright-1957",
+      "name": "Copyright Act, 1957",
+      "shortName": "Copyright Act",
+      "categoryId": "ip-tech",
+      "summary": "The rights of authors over literary, dramatic, musical and artistic works, films and recordings.",
+      "status": "preparing",
+      "extentLabel": "79 sections",
+      "effectiveLabel": "In force since 21 January 1958",
+      "sourceLabel": "Act No. 14 of 1957",
+      "chapters": []
+    }
+  ],
+  "definitions": [
+    {
+      "id": "fir",
+      "term": "First Information Report (FIR)",
+      "meaning": "The first record of information about a cognizable offence, registered by the police under Section 173 of the BNSS. Registering an FIR sets the criminal investigation in motion. Under the BNSS, information can also be given electronically (e-FIR).",
+      "sourceNote": "Bharatiya Nagarik Suraksha Sanhita, 2023 · Section 173",
+      "relatedSectionIds": [],
+      "relatedCaseLawIds": ["lalita-kumari"]
+    },
+    {
+      "id": "zero-fir",
+      "term": "Zero FIR",
+      "meaning": "An FIR registered at any police station regardless of where the offence took place, later transferred to the station with jurisdiction. The BNSS recognises this so that no complaint is turned away for territorial reasons.",
+      "sourceNote": "Bharatiya Nagarik Suraksha Sanhita, 2023 · Section 173",
+      "relatedSectionIds": [],
+      "relatedCaseLawIds": ["lalita-kumari"]
+    },
+    {
+      "id": "cognizable",
+      "term": "Cognizable offence",
+      "meaning": "An offence in which the police may register an FIR, investigate and arrest without prior permission of a court — generally the more serious offences, such as theft, robbery or murder.",
+      "sourceNote": "Bharatiya Nagarik Suraksha Sanhita, 2023 · Section 2",
+      "relatedSectionIds": ["bns-303", "bns-309", "bns-103"],
+      "relatedCaseLawIds": ["lalita-kumari"]
+    },
+    {
+      "id": "non-cognizable",
+      "term": "Non-cognizable offence",
+      "meaning": "An offence in which the police cannot investigate or arrest without the order of a Magistrate — generally less serious offences, such as simple defamation.",
+      "sourceNote": "Bharatiya Nagarik Suraksha Sanhita, 2023 · Section 2",
+      "relatedSectionIds": ["bns-356"],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "bailable",
+      "term": "Bailable and non-bailable offences",
+      "meaning": "In a bailable offence, release on bail is a right. In a non-bailable offence, bail is at the discretion of the court — not automatic, and not impossible.",
+      "sourceNote": "Bharatiya Nagarik Suraksha Sanhita, 2023 · Section 2",
+      "relatedSectionIds": [],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "anticipatory-bail",
+      "term": "Anticipatory bail",
+      "meaning": "A direction that a person who fears arrest be released on bail if arrested, sought in advance under Section 482 of the BNSS.",
+      "sourceNote": "Bharatiya Nagarik Suraksha Sanhita, 2023 · Section 482",
+      "relatedSectionIds": ["bns-85"],
+      "relatedCaseLawIds": ["arnesh-kumar"]
+    },
+    {
+      "id": "mens-rea",
+      "term": "Mens rea",
+      "meaning": "The guilty mind: the intention or knowledge behind an act. Most serious offences require both a wrongful act and a culpable state of mind.",
+      "sourceNote": "General principle of criminal law",
+      "relatedSectionIds": ["bns-100", "bns-318"],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "actus-reus",
+      "term": "Actus reus",
+      "meaning": "The guilty act: the physical act (or unlawful omission) that a criminal offence requires, as distinct from the mental element.",
+      "sourceNote": "General principle of criminal law",
+      "relatedSectionIds": [],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "dishonestly",
+      "term": "Dishonestly",
+      "meaning": "Doing anything with the intention of causing wrongful gain to one person or wrongful loss to another.",
+      "sourceNote": "Bharatiya Nyaya Sanhita, 2023 · Section 2",
+      "relatedSectionIds": ["bns-303", "bns-316", "bns-318"],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "fraudulently",
+      "term": "Fraudulently",
+      "meaning": "Doing a thing with intent to defraud — to deceive, and by deception induce another to act to their loss or injury.",
+      "sourceNote": "Bharatiya Nyaya Sanhita, 2023 · Section 2",
+      "relatedSectionIds": ["bns-318", "bns-336"],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "movable-property",
+      "term": "Movable property",
+      "meaning": "Property of every description except land and things attached to the earth, or permanently fastened to anything attached to the earth.",
+      "sourceNote": "Bharatiya Nyaya Sanhita, 2023 · Section 2",
+      "relatedSectionIds": ["bns-303", "bns-304"],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "wrongful-gain",
+      "term": "Wrongful gain and wrongful loss",
+      "meaning": "Wrongful gain is gain, by unlawful means, of property to which the gainer is not legally entitled. Wrongful loss is loss, by unlawful means, of property to which the loser is legally entitled.",
+      "sourceNote": "Bharatiya Nyaya Sanhita, 2023 · Section 2",
+      "relatedSectionIds": ["bns-303", "bns-324"],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "charge-sheet",
+      "term": "Charge sheet",
+      "meaning": "The police report filed in court after investigation, setting out the evidence and the offences alleged. Filing timelines are tied to the accused's right to default bail.",
+      "sourceNote": "Bharatiya Nagarik Suraksha Sanhita, 2023 · Section 193",
+      "relatedSectionIds": [],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "summons",
+      "term": "Summons and warrant",
+      "meaning": "A summons is a court order to appear. A warrant is a court order authorising the police to arrest and produce a person. Which issues first depends on the seriousness of the case.",
+      "sourceNote": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "relatedSectionIds": [],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "stridhan",
+      "term": "Stridhan",
+      "meaning": "Property gifted to a woman before, at, or after marriage that remains her exclusive property. Dishonestly withholding it can amount to criminal breach of trust.",
+      "sourceNote": "Recognised in Supreme Court decisions",
+      "relatedSectionIds": ["bns-316"],
+      "relatedCaseLawIds": ["rashmi-kumar"]
+    },
+    {
+      "id": "community-service",
+      "term": "Community service",
+      "meaning": "Unpaid public work ordered as punishment. Introduced as a formal punishment by the BNS for offences such as first-time petty theft (on return of the property) and defamation.",
+      "sourceNote": "Bharatiya Nyaya Sanhita, 2023 · Section 4",
+      "relatedSectionIds": ["bns-4", "bns-303", "bns-356"],
+      "relatedCaseLawIds": []
+    },
+    {
+      "id": "cruelty",
+      "term": "Cruelty (in marriage)",
+      "meaning": "Wilful conduct likely to drive a woman to suicide or cause grave injury to her life or health (mental or physical), or harassment tied to unlawful demands for property. Defined for the offence of cruelty by a husband or his relatives.",
+      "sourceNote": "Bharatiya Nyaya Sanhita, 2023 · Section 86",
+      "relatedSectionIds": ["bns-85", "bns-86", "bns-80"],
+      "relatedCaseLawIds": ["arnesh-kumar"]
+    }
+  ],
+  "caseLaws": [
+    {
+      "id": "hridaya-ranjan",
+      "title": "Hridaya Ranjan Prasad Verma v. State of Bihar",
+      "court": "Supreme Court of India",
+      "year": 2000,
+      "principle": "Cheating requires dishonest intention at the very start of the transaction — a promise that fails later is breach of contract, not cheating.",
+      "summary": "The Court distinguished mere breach of contract from the offence of cheating. What matters is the accused's intention at the time the promise was made: if the intention to deceive existed from the beginning, cheating is made out; if the deal simply went bad later, the remedy is civil, not criminal.",
+      "relatedSectionIds": ["bns-318"]
+    },
+    {
+      "id": "pyare-lal",
+      "title": "Pyare Lal Bhargava v. State of Rajasthan",
+      "court": "Supreme Court of India",
+      "year": 1963,
+      "principle": "Even a temporary taking without consent can be theft — permanent deprivation is not required.",
+      "summary": "A government clerk removed an official file from his office for a day and returned it. The Court held that dishonestly moving property out of another's possession even temporarily satisfies the definition of theft.",
+      "relatedSectionIds": ["bns-303"]
+    },
+    {
+      "id": "km-nanavati",
+      "title": "K.M. Nanavati v. State of Maharashtra",
+      "court": "Supreme Court of India",
+      "year": 1961,
+      "principle": "Grave and sudden provocation is judged by the standard of a reasonable person, and the fatal act must follow before passion has time to cool.",
+      "summary": "The celebrated naval-officer case examined when culpable homicide is not murder because of provocation. The Court held the exception is unavailable where there is time to cool off and the act is deliberate and planned.",
+      "relatedSectionIds": ["bns-100", "bns-101"]
+    },
+    {
+      "id": "virsa-singh",
+      "title": "Virsa Singh v. State of Punjab",
+      "court": "Supreme Court of India",
+      "year": 1958,
+      "principle": "For murder it is enough that the injury intentionally inflicted is sufficient in the ordinary course of nature to cause death.",
+      "summary": "The Court laid down the classic four-step test for the third clause of the murder definition: prove the injury, prove it was intended, and if that injury is objectively sufficient to cause death, the offence is murder — whether or not the accused knew how deadly it was.",
+      "relatedSectionIds": ["bns-101", "bns-103"]
+    },
+    {
+      "id": "bachan-singh",
+      "title": "Bachan Singh v. State of Punjab",
+      "court": "Supreme Court of India",
+      "year": 1980,
+      "principle": "The death penalty is constitutional but reserved for the rarest of rare cases, where the alternative of life imprisonment is unquestionably foreclosed.",
+      "summary": "A Constitution Bench upheld capital punishment for murder while confining it to the rarest of rare cases. Courts must weigh aggravating and mitigating circumstances relating both to the crime and to the criminal before choosing the death sentence.",
+      "relatedSectionIds": ["bns-103"]
+    },
+    {
+      "id": "machhi-singh",
+      "title": "Machhi Singh v. State of Punjab",
+      "court": "Supreme Court of India",
+      "year": 1983,
+      "principle": "Set out the categories — manner, motive, magnitude and victim — for judging when a murder is rarest of rare.",
+      "summary": "Building on Bachan Singh, the Court listed practical categories for the rarest-of-rare test: exceptionally brutal manner, depraved motive, anti-social magnitude, and vulnerable victims. It remains the working framework for death-sentence hearings.",
+      "relatedSectionIds": ["bns-103"]
+    },
+    {
+      "id": "punnayya",
+      "title": "State of A.P. v. R. Punnayya",
+      "court": "Supreme Court of India",
+      "year": 1976,
+      "principle": "Culpable homicide is the genus and murder the species — all murder is culpable homicide, but not the reverse.",
+      "summary": "The Court explained the three degrees of culpable homicide and gave a practical approach: first ask whether the act is culpable homicide at all, then whether it rises to murder, and only then which punishment tier applies.",
+      "relatedSectionIds": ["bns-100", "bns-101", "bns-105"]
+    },
+    {
+      "id": "gian-kaur",
+      "title": "Gian Kaur v. State of Punjab",
+      "court": "Supreme Court of India",
+      "year": 1996,
+      "principle": "The right to life does not include a right to die; penalising abetment of suicide is constitutional.",
+      "summary": "A Constitution Bench overruled the view that attempting suicide was protected by Article 21, and upheld the offences around suicide. The BNS later dropped the general offence of attempting suicide, keeping only the narrow case aimed at coercing public servants.",
+      "relatedSectionIds": ["bns-108", "bns-226"]
+    },
+    {
+      "id": "kedar-nath",
+      "title": "Kedar Nath Singh v. State of Bihar",
+      "court": "Supreme Court of India",
+      "year": 1962,
+      "principle": "Sedition provisions survive only if read narrowly: mere criticism of government is protected unless it incites violence or public disorder.",
+      "summary": "The Court upheld the old sedition offence by confining it to acts with a tendency to incite violence or disorder. The BNS replaces sedition with a differently framed offence about endangering India's sovereignty, unity and integrity — the narrow-reading principle remains the key safeguard.",
+      "relatedSectionIds": ["bns-152"]
+    },
+    {
+      "id": "jacob-mathew",
+      "title": "Jacob Mathew v. State of Punjab",
+      "court": "Supreme Court of India",
+      "year": 2005,
+      "principle": "Doctors are criminally liable for negligence only where the negligence is gross — a mere error of judgment is not a crime.",
+      "summary": "In a case about a patient's death in hospital, the Court adopted the Bolam standard: a medical professional acting in accordance with a practice accepted by a responsible body of the profession is not criminally negligent.",
+      "relatedSectionIds": ["bns-106"]
+    },
+    {
+      "id": "subramanian-swamy",
+      "title": "Subramanian Swamy v. Union of India",
+      "court": "Supreme Court of India",
+      "year": 2016,
+      "principle": "Criminal defamation is constitutional: the right to reputation is part of the right to life.",
+      "summary": "The Court upheld the offence of criminal defamation, holding that free speech under Article 19(1)(a) is not absolute and that reputation is protected as part of the right to life under Article 21.",
+      "relatedSectionIds": ["bns-356"]
+    },
+    {
+      "id": "arnesh-kumar",
+      "title": "Arnesh Kumar v. State of Bihar",
+      "court": "Supreme Court of India",
+      "year": 2014,
+      "principle": "No automatic arrests in cruelty cases: police must record reasons and follow a checklist before arresting for offences punishable up to seven years.",
+      "summary": "Concerned by mechanical arrests in matrimonial-cruelty complaints, the Court directed police to apply an arrest checklist and magistrates to scrutinise detention, reinforcing that arrest is the exception, not the rule.",
+      "relatedSectionIds": ["bns-85"]
+    },
+    {
+      "id": "shreya-singhal",
+      "title": "Shreya Singhal v. Union of India",
+      "court": "Supreme Court of India",
+      "year": 2015,
+      "principle": "Section 66A of the IT Act struck down: vague restrictions on online speech are unconstitutional.",
+      "summary": "The Court invalidated the offence of sending 'offensive' messages online for vagueness and overbreadth, while upholding narrowly framed cyber offences. A foundational judgment for online speech in India.",
+      "relatedSectionIds": ["it-66"]
+    },
+    {
+      "id": "rashmi-kumar",
+      "title": "Rashmi Kumar v. Mahesh Kumar Bhada",
+      "court": "Supreme Court of India",
+      "year": 1997,
+      "principle": "A wife's stridhan remains her exclusive property; a husband who dishonestly withholds it commits criminal breach of trust.",
+      "summary": "The Court held that gifts given to a woman at marriage are her separate property. The husband holds them, if at all, as a trustee — dishonestly refusing to return them on demand can be criminal breach of trust.",
+      "relatedSectionIds": ["bns-316"]
+    },
+    {
+      "id": "lalita-kumari",
+      "title": "Lalita Kumari v. Government of Uttar Pradesh",
+      "court": "Supreme Court of India",
+      "year": 2014,
+      "principle": "If information discloses a cognizable offence, the police must register an FIR — a preliminary inquiry is the exception.",
+      "summary": "A Constitution Bench held FIR registration mandatory where a cognizable offence is disclosed, with limited categories — such as matrimonial or commercial disputes — where a short preliminary inquiry is permissible.",
+      "relatedSectionIds": []
+    }
+  ],
+  "ipcMappings": [
+    { "id": "m-96", "ipc": "96", "ipcTitle": "Things done in private defence", "bnsLabel": "34", "sectionId": "bns-34" },
+    { "id": "m-120b", "ipc": "120A–120B", "ipcTitle": "Criminal conspiracy", "bnsLabel": "61", "sectionId": "bns-61" },
+    { "id": "m-124a", "ipc": "124A", "ipcTitle": "Sedition", "bnsLabel": "152", "sectionId": "bns-152", "note": "Sedition as such is repealed. Section 152 creates a differently worded offence about acts endangering the sovereignty, unity and integrity of India — the two are not identical." },
+    { "id": "m-279", "ipc": "279", "ipcTitle": "Rash driving or riding on a public way", "bnsLabel": "281", "sectionId": "bns-281" },
+    { "id": "m-299", "ipc": "299", "ipcTitle": "Culpable homicide", "bnsLabel": "100", "sectionId": "bns-100" },
+    { "id": "m-300", "ipc": "300", "ipcTitle": "Murder", "bnsLabel": "101", "sectionId": "bns-101" },
+    { "id": "m-302", "ipc": "302", "ipcTitle": "Punishment for murder", "bnsLabel": "103(1)", "sectionId": "bns-103" },
+    { "id": "m-304", "ipc": "304", "ipcTitle": "Punishment for culpable homicide not amounting to murder", "bnsLabel": "105", "sectionId": "bns-105" },
+    { "id": "m-304a", "ipc": "304A", "ipcTitle": "Causing death by negligence", "bnsLabel": "106(1)", "sectionId": "bns-106", "note": "The BNS raises the maximum imprisonment from two years to five, and adds a separate hit-and-run offence in Section 106(2)." },
+    { "id": "m-304b", "ipc": "304B", "ipcTitle": "Dowry death", "bnsLabel": "80", "sectionId": "bns-80" },
+    { "id": "m-306", "ipc": "306", "ipcTitle": "Abetment of suicide", "bnsLabel": "108", "sectionId": "bns-108" },
+    { "id": "m-307", "ipc": "307", "ipcTitle": "Attempt to murder", "bnsLabel": "109", "sectionId": "bns-109" },
+    { "id": "m-309", "ipc": "309", "ipcTitle": "Attempt to commit suicide", "bnsLabel": "226", "sectionId": "bns-226", "note": "Attempting suicide is, in general, no longer an offence. Section 226 covers only attempts made to compel or restrain a public servant." },
+    { "id": "m-319", "ipc": "319", "ipcTitle": "Hurt", "bnsLabel": "114", "sectionId": "bns-114" },
+    { "id": "m-323", "ipc": "323", "ipcTitle": "Punishment for voluntarily causing hurt", "bnsLabel": "115(2)", "sectionId": "bns-115" },
+    { "id": "m-320", "ipc": "320", "ipcTitle": "Grievous hurt", "bnsLabel": "116", "sectionId": "bns-116" },
+    { "id": "m-322", "ipc": "322 · 325", "ipcTitle": "Voluntarily causing grievous hurt", "bnsLabel": "117", "sectionId": "bns-117" },
+    { "id": "m-141", "ipc": "141–145", "ipcTitle": "Unlawful assembly", "bnsLabel": "189", "sectionId": "bns-189" },
+    { "id": "m-146", "ipc": "146–148", "ipcTitle": "Rioting", "bnsLabel": "191", "sectionId": "bns-191" },
+    { "id": "m-153a", "ipc": "153A", "ipcTitle": "Promoting enmity between different groups", "bnsLabel": "196", "sectionId": "bns-196" },
+    { "id": "m-359", "ipc": "359–363", "ipcTitle": "Kidnapping", "bnsLabel": "137", "sectionId": "bns-137" },
+    { "id": "m-377", "ipc": "377", "ipcTitle": "Unnatural offences", "bnsLabel": "—", "sectionId": null, "note": "IPC 377 has no direct equivalent in the BNS — the provision was not carried over into the new code." },
+    { "id": "m-494", "ipc": "494", "ipcTitle": "Marrying again during lifetime of husband or wife", "bnsLabel": "82", "sectionId": "bns-82" },
+    { "id": "m-511", "ipc": "511", "ipcTitle": "Punishment for attempting to commit offences", "bnsLabel": "62", "sectionId": "bns-62" },
+    { "id": "m-351", "ipc": "351", "ipcTitle": "Assault", "bnsLabel": "130", "sectionId": "bns-130" },
+    { "id": "m-354", "ipc": "354", "ipcTitle": "Assault or criminal force to woman with intent to outrage her modesty", "bnsLabel": "74", "sectionId": "bns-74" },
+    { "id": "m-354a", "ipc": "354A", "ipcTitle": "Sexual harassment", "bnsLabel": "75", "sectionId": "bns-75" },
+    { "id": "m-375", "ipc": "375–376", "ipcTitle": "Rape", "bnsLabel": "63–64", "sectionId": "bns-63", "note": "The definition is Section 63; punishment is prescribed by Section 64." },
+    { "id": "m-378", "ipc": "378–379", "ipcTitle": "Theft", "bnsLabel": "303", "sectionId": "bns-303" },
+    { "id": "m-383", "ipc": "383–384", "ipcTitle": "Extortion", "bnsLabel": "308", "sectionId": "bns-308" },
+    { "id": "m-390", "ipc": "390–392", "ipcTitle": "Robbery", "bnsLabel": "309", "sectionId": "bns-309" },
+    { "id": "m-391", "ipc": "391–395", "ipcTitle": "Dacoity", "bnsLabel": "310", "sectionId": "bns-310" },
+    { "id": "m-405", "ipc": "405–406", "ipcTitle": "Criminal breach of trust", "bnsLabel": "316", "sectionId": "bns-316", "note": "Maximum punishment for the basic offence increases from three years to five." },
+    { "id": "m-410", "ipc": "410–411", "ipcTitle": "Stolen property", "bnsLabel": "317", "sectionId": "bns-317" },
+    { "id": "m-415", "ipc": "415", "ipcTitle": "Cheating (definition)", "bnsLabel": "318(1)", "sectionId": "bns-318" },
+    { "id": "m-416", "ipc": "416", "ipcTitle": "Cheating by personation", "bnsLabel": "319", "sectionId": "bns-319" },
+    { "id": "m-417", "ipc": "417", "ipcTitle": "Punishment for cheating", "bnsLabel": "318(2)", "sectionId": "bns-318", "note": "Maximum imprisonment increases from one year to three." },
+    { "id": "m-420", "ipc": "420", "ipcTitle": "Cheating and dishonestly inducing delivery of property", "bnsLabel": "318(4)", "sectionId": "bns-318", "note": "The famous '420' now lives in Section 318(4). The substance of the offence is unchanged." },
+    { "id": "m-421", "ipc": "421", "ipcTitle": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors", "bnsLabel": "320", "sectionId": "bns-320" },
+    { "id": "m-425", "ipc": "425–426", "ipcTitle": "Mischief", "bnsLabel": "324", "sectionId": "bns-324" },
+    { "id": "m-441", "ipc": "441 · 447", "ipcTitle": "Criminal trespass", "bnsLabel": "329", "sectionId": "bns-329" },
+    { "id": "m-463", "ipc": "463 · 465", "ipcTitle": "Forgery", "bnsLabel": "336", "sectionId": "bns-336" },
+    { "id": "m-498a", "ipc": "498A", "ipcTitle": "Husband or relative of husband subjecting a woman to cruelty", "bnsLabel": "85–86", "sectionId": "bns-85" },
+    { "id": "m-499", "ipc": "499–500", "ipcTitle": "Defamation", "bnsLabel": "356", "sectionId": "bns-356", "note": "The BNS adds community service as an alternative punishment." },
+    { "id": "m-503", "ipc": "503 · 506", "ipcTitle": "Criminal intimidation", "bnsLabel": "351", "sectionId": "bns-351" },
+    { "id": "m-504", "ipc": "504", "ipcTitle": "Intentional insult with intent to provoke breach of the peace", "bnsLabel": "352", "sectionId": "bns-352" },
+    { "id": "m-509", "ipc": "509", "ipcTitle": "Word, gesture or act intended to insult the modesty of a woman", "bnsLabel": "79", "sectionId": "bns-79" }
+  ],
+  "situations": [
+    {
+      "id": "sit-road",
+      "title": "Road accident",
+      "blurb": "Injury, negligent driving and the police process",
+      "symbol": "car.side",
+      "intro": "After a road accident, the law looks at how the vehicle was driven, whether anyone was hurt, and whether the driver stopped and reported. These provisions and terms explain the criminal side of a road accident. Insurance claims are a separate civil process.",
+      "sectionIds": ["bns-281", "bns-106", "bns-115"],
+      "definitionIds": ["fir", "zero-fir", "cognizable"]
+    },
+    {
+      "id": "sit-money",
+      "title": "Money dispute",
+      "blurb": "Unpaid loans, broken promises and outright fraud",
+      "symbol": "indianrupeesign.circle",
+      "intro": "Not every unpaid debt is a crime. The law separates a deal that failed from a deception that was planned. These provisions explain when a money matter becomes cheating or breach of trust — and when it stays a civil claim under contract law.",
+      "sectionIds": ["bns-318", "bns-316", "ic-73", "ic-10"],
+      "definitionIds": ["dishonestly", "fraudulently"]
+    },
+    {
+      "id": "sit-cyber",
+      "title": "Online & cyber issue",
+      "blurb": "UPI fraud, identity theft and online impersonation",
+      "symbol": "wifi.exclamationmark",
+      "intro": "Online frauds usually combine an IT Act offence with cheating under the BNS. These provisions cover identity theft, impersonation through a phone or computer, and hacking-related acts.",
+      "sectionIds": ["it-66d", "it-66c", "bns-319", "bns-318", "it-66"],
+      "definitionIds": ["fraudulently", "fir"]
+    },
+    {
+      "id": "sit-property",
+      "title": "Property problem",
+      "blurb": "Trespass, damage, possession and intimidation",
+      "symbol": "house",
+      "intro": "Disputes about property range from trespass and damage to forced dispossession. Criminal law deals with dishonest or forcible acts; questions of ownership and title are decided by civil courts.",
+      "sectionIds": ["bns-329", "bns-324", "bns-303", "bns-308"],
+      "definitionIds": ["movable-property", "wrongful-gain"]
+    },
+    {
+      "id": "sit-family",
+      "title": "Family matter",
+      "blurb": "Cruelty, dowry and protection within marriage",
+      "symbol": "figure.2.arms.open",
+      "intro": "The criminal law protects spouses from cruelty and dowry-related harm. Divorce, maintenance and custody are civil matters under family law — those guides are being prepared for LexIndia.",
+      "sectionIds": ["bns-85", "bns-86", "bns-80", "bns-316"],
+      "definitionIds": ["cruelty", "stridhan", "anticipatory-bail"]
+    },
+    {
+      "id": "sit-work",
+      "title": "Workplace issue",
+      "blurb": "Harassment, threats and unpaid dues at work",
+      "symbol": "briefcase",
+      "intro": "Workplace problems can have both civil and criminal sides. Harassment and intimidation are offences; unpaid salary is usually a contractual claim. Start with what matches your situation.",
+      "sectionIds": ["bns-75", "bns-351", "bns-352", "ic-73"],
+      "definitionIds": ["summons"]
+    }
+  ],
+  "topics": [
+    { "id": "t-cheating", "name": "Cheating & fraud", "sectionIds": ["bns-318", "bns-319", "bns-336", "it-66d"] },
+    { "id": "t-theft", "name": "Theft & robbery", "sectionIds": ["bns-303", "bns-304", "bns-309", "bns-310", "bns-317"] },
+    { "id": "t-defamation", "name": "Defamation", "sectionIds": ["bns-356", "bns-352"] },
+    { "id": "t-hurt", "name": "Hurt & assault", "sectionIds": ["bns-115", "bns-116", "bns-130", "bns-74"] },
+    { "id": "t-marriage", "name": "Marriage & cruelty", "sectionIds": ["bns-85", "bns-86", "bns-80"] },
+    { "id": "t-cyber", "name": "Cybercrime", "sectionIds": ["it-66", "it-66c", "it-66d", "bns-319"] },
+    { "id": "t-contracts", "name": "Contracts", "sectionIds": ["ic-10", "ic-14", "ic-73"] },
+    { "id": "t-homicide", "name": "Homicide", "sectionIds": ["bns-100", "bns-101", "bns-103", "bns-105", "bns-106"] },
+    { "id": "t-defence", "name": "Private defence", "sectionIds": ["bns-34", "bns-35", "bns-38"] },
+    { "id": "t-new-crimes", "name": "New in the BNS", "sectionIds": ["bns-111", "bns-112", "bns-113", "bns-304", "bns-226"] },
+    { "id": "t-public-order", "name": "Public order", "sectionIds": ["bns-189", "bns-191", "bns-196"] },
+    { "id": "t-kidnapping", "name": "Kidnapping", "sectionIds": ["bns-137", "bns-138", "bns-139"] }
+  ],
+  "popularSearches": ["420", "cheating", "theft", "murder", "FIR", "defamation", "498A", "snatching", "dowry", "organised crime"],
+  "askSuggestions": [
+    "My landlord is not returning my security deposit — what can I do?",
+    "I paid online and the seller vanished. How do I report the fraud?",
+    "A cheque I received has bounced. What are my options?",
+    "How do I file an FIR, and what happens after?",
+    "I received a legal notice. What should I do now?",
+    "My employer has not paid my salary for two months.",
+    "Someone is threatening me over money. What are my rights?",
+    "Is Section 420 still a thing?"
+  ]
+}

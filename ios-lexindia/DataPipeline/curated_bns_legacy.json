@@ -1,0 +1,1337 @@
+[
+ {
+  "id": "bns-1",
+  "actId": "bns",
+  "chapterId": "bns-ch1",
+  "number": "1",
+  "sortIndex": 10,
+  "title": "Short title, commencement and application",
+  "officialText": "(1) This Act may be called the Bharatiya Nyaya Sanhita, 2023.\n\n(2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.\n\n(3) Every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India.",
+  "officialStatus": "extract",
+  "textNote": "Extract — subsections (4) and (5), on offences committed beyond India by citizens and on ships or aircraft registered in India, are summarised in the plain-language guide.",
+  "explanation": "The opening section names the code and sets its reach. The BNS came into force on 1 July 2024, replacing the Indian Penal Code, 1860. It applies to acts done within India — and it also follows Indian citizens, and ships or aircraft registered in India, beyond the border, so an offence committed abroad by an Indian citizen can still be tried under this code.",
+  "example": "An Indian citizen commits an offence while living abroad. Under this section's application rules, he can be dealt with under the BNS as if the act had been done within India.",
+  "keyPoints": [
+   "Names the code: the Bharatiya Nyaya Sanhita, 2023",
+   "In force since 1 July 2024, replacing the IPC, 1860",
+   "Applies within India — and to Indian citizens, ships and aircraft beyond it"
+  ],
+  "relatedSectionIds": [
+   "bns-2",
+   "bns-3"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 1–4",
+  "keywords": [
+   "short title",
+   "commencement",
+   "application",
+   "jurisdiction",
+   "extra-territorial",
+   "preliminary"
+  ]
+ },
+ {
+  "id": "bns-2",
+  "actId": "bns",
+  "chapterId": "bns-ch1",
+  "number": "2",
+  "sortIndex": 20,
+  "title": "Definitions",
+  "officialText": "In this Sanhita, unless the context otherwise requires,—\n\n“act” denotes as well a series of acts as a single act;\n\n“dishonestly” means doing anything with the intention of causing wrongful gain to one person or wrongful loss to another person;\n\n“fraudulently” means doing a thing with intent to defraud but not otherwise;\n\n“movable property” includes property of every description, except land and things attached to the earth or permanently fastened to anything which is attached to the earth;\n\n“wrongful gain” means gain by unlawful means of property to which the person gaining is not legally entitled.",
+  "officialStatus": "extract",
+  "textNote": "Extract — selected definitions only. The section defines the expressions used throughout the Sanhita.",
+  "explanation": "The dictionary of the code. Words like ‘dishonestly’, ‘fraudulently’ and ‘movable property’ carry precise defined meanings, and every offence is read through those definitions rather than everyday usage. When a section says ‘dishonestly’, it means exactly what this section says it means — causing wrongful gain or wrongful loss — not simply lying.",
+  "example": "Someone takes your cycle intending to return it in a month. Everyday language might hesitate to call that stealing — but the defined meanings of ‘dishonestly’ and ‘movable property’ are what decide whether it is theft under Section 303.",
+  "keyPoints": [
+   "Defined words keep their defined meaning across the whole code",
+   "‘Dishonestly’ turns on wrongful gain or wrongful loss — not on lying",
+   "‘Fraudulently’ requires an intent to defraud"
+  ],
+  "relatedSectionIds": [
+   "bns-303",
+   "bns-318"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "dishonestly",
+   "fraudulently",
+   "movable-property",
+   "wrongful-gain"
+  ],
+  "ipcLabel": "IPC 6–52 (consolidated)",
+  "keywords": [
+   "definitions",
+   "dishonestly",
+   "fraudulently",
+   "interpretation",
+   "meaning",
+   "movable property"
+  ]
+ },
+ {
+  "id": "bns-3",
+  "actId": "bns",
+  "chapterId": "bns-ch1",
+  "number": "3",
+  "sortIndex": 30,
+  "title": "General explanations",
+  "officialText": "(1) Throughout this Sanhita, every definition of an offence, every penal provision, and every Illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled “General Exceptions”, though those exceptions are not repeated in such definition, penal provision, or Illustration.\n\n(5) When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable for that act in the same manner as if it were done by him alone.",
+  "officialStatus": "extract",
+  "textNote": "Extract — subsections (2) to (4) and (6) to (9) are summarised in the plain-language guide.",
+  "explanation": "Ground rules for reading the whole code. Every offence is automatically subject to the General Exceptions — like private defence or accident — even where a section doesn't repeat them. It also carries the famous principle of common intention: when several people act together on a shared plan, each is liable as if they had done the whole act alone.",
+  "example": "Three people plan a robbery; one only keeps watch outside. Under common intention, the lookout is as fully liable for the robbery as those who went in.",
+  "keyPoints": [
+   "Every offence is read subject to the General Exceptions in Chapter III",
+   "Common intention: joint actors share full liability (earlier IPC 34)",
+   "These reading rules apply across the entire Sanhita"
+  ],
+  "relatedSectionIds": [
+   "bns-34"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "mens-rea"
+  ],
+  "ipcLabel": "IPC 6 · 34",
+  "keywords": [
+   "general explanations",
+   "common intention",
+   "exceptions",
+   "joint liability"
+  ]
+ },
+ {
+  "id": "bns-4",
+  "actId": "bns",
+  "chapterId": "bns-ch2",
+  "number": "4",
+  "sortIndex": 40,
+  "title": "Punishments",
+  "officialText": "The punishments to which offenders are liable under the provisions of this Sanhita are—\n\n(a) Death;\n\n(b) Imprisonment for life;\n\n(c) Imprisonment, which is of two descriptions, namely:—\n\n(1) Rigorous, that is, with hard labour;\n\n(2) Simple;\n\n(d) Forfeiture of property;\n\n(e) Fine;\n\n(f) Community service.",
+  "officialStatus": "full",
+  "explanation": "This is the master list of punishments an Indian criminal court can impose under the BNS. Every offence in the code is tied to one or more of these. Community service is the newest entry — a first for India's principal criminal code.",
+  "example": "For a first-time petty theft where the stolen property is returned, a court may order community service instead of jail — supervised public work — because Section 303 expressly allows it.",
+  "keyPoints": [
+   "Six kinds of punishment: death, life imprisonment, imprisonment (rigorous or simple), forfeiture, fine, community service",
+   "Community service is new in the BNS — the IPC had no such punishment",
+   "Which punishment applies is fixed by the section creating each offence"
+  ],
+  "relatedSectionIds": [
+   "bns-303",
+   "bns-356"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "community-service"
+  ],
+  "ipcLabel": "IPC 53",
+  "keywords": [
+   "punishment",
+   "sentence",
+   "jail",
+   "fine",
+   "community service",
+   "death penalty",
+   "imprisonment"
+  ]
+ },
+ {
+  "id": "bns-34",
+  "actId": "bns",
+  "chapterId": "bns-ch3",
+  "number": "34",
+  "sortIndex": 340,
+  "title": "Things done in private defence",
+  "officialText": "Nothing is an offence which is done in the exercise of the right of private defence.",
+  "officialStatus": "full",
+  "explanation": "The law does not punish you for reasonably defending your body or property — or someone else's — against an attack. Later sections of this chapter set the limits: the threat must be present, the force proportionate, and there must ordinarily be no time to seek help from the authorities.",
+  "example": "If someone attacks you on the street and you push them away to escape, injuring them, you have not committed an offence — you acted in private defence. Chasing them down the street to beat them afterwards would cross the line.",
+  "keyPoints": [
+   "Self-defence is a complete defence, not merely a mitigating factor",
+   "It covers defence of the body and of property, your own or another person's",
+   "Force must be proportionate to the threat, and stop when the threat ends"
+  ],
+  "relatedSectionIds": [
+   "bns-130",
+   "bns-115"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 96",
+  "keywords": [
+   "self defence",
+   "private defence",
+   "attack",
+   "protect",
+   "defend",
+   "fight back"
+  ]
+ },
+ {
+  "id": "bns-61",
+  "actId": "bns",
+  "chapterId": "bns-ch4",
+  "number": "61",
+  "sortIndex": 610,
+  "title": "Criminal conspiracy",
+  "officialText": "(1) When two or more persons agree to do, or cause to be done—\n\n(a) an illegal act; or\n\n(b) an act which is not illegal by illegal means,\n\nsuch an agreement is designated a criminal conspiracy:\n\nProvided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties to such agreement in pursuance thereof.",
+  "officialStatus": "extract",
+  "textNote": "Sub-section (2), which prescribes punishment, appears in the official Gazette text.",
+  "explanation": "A conspiracy is the agreement itself — two or more people agreeing to commit an offence. The crime is complete when the agreement is made; the planned offence need not succeed. Where the object is not itself an offence, some act in furtherance is additionally required.",
+  "example": "Two employees agree to siphon money from their company, and one of them creates a fake vendor account. The agreement plus that single step is criminal conspiracy, even if no money is ever transferred.",
+  "keyPoints": [
+   "The agreement is the offence — success of the plan is irrelevant",
+   "Conspiring to commit an offence needs no further act; other unlawful objects need one overt act",
+   "Punishment generally tracks the offence that was the object of the conspiracy"
+  ],
+  "relatedSectionIds": [
+   "bns-318",
+   "bns-316"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "mens-rea"
+  ],
+  "ipcLabel": "IPC 120A–120B",
+  "keywords": [
+   "conspiracy",
+   "agreement",
+   "plan",
+   "plot",
+   "gang"
+  ]
+ },
+ {
+  "id": "bns-63",
+  "actId": "bns",
+  "chapterId": "bns-ch5",
+  "number": "63",
+  "sortIndex": 630,
+  "title": "Rape",
+  "officialText": null,
+  "officialStatus": "unavailable",
+  "textNote": "Section 63 is long, with clauses, descriptions and exceptions. Its full statutory text is being prepared for LexIndia — refer to the official Gazette until then.",
+  "explanation": "Section 63 defines rape with precision: sexual acts committed against a woman without her consent, against her will, with consent obtained by fear, fraud or impersonation, or where she cannot consent — including when she is under eighteen. Consent means an unequivocal voluntary agreement; silence or lack of resistance is not consent.",
+  "example": null,
+  "keyPoints": [
+   "Consent must be a clear, voluntary agreement — absence of injuries or resistance does not imply consent",
+   "Sexual acts with a woman under eighteen are rape regardless of stated consent",
+   "Punishment is prescribed by Section 64 — rigorous imprisonment of at least ten years, extendable to life"
+  ],
+  "relatedSectionIds": [
+   "bns-74",
+   "bns-75",
+   "bns-79"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 375–376",
+  "keywords": [
+   "rape",
+   "consent",
+   "sexual assault",
+   "woman"
+  ]
+ },
+ {
+  "id": "bns-74",
+  "actId": "bns",
+  "chapterId": "bns-ch5",
+  "number": "74",
+  "sortIndex": 740,
+  "title": "Assault or criminal force to woman with intent to outrage her modesty",
+  "officialText": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Using force against a woman — grabbing, pulling, touching — intending to outrage her modesty, or knowing that it is likely to, is a serious offence with a minimum sentence of one year. Courts have read 'modesty' as the dignity attached to her as a woman.",
+  "example": "A man deliberately grabs a woman's dupatta on the street to humiliate her. Even without any physical injury, the act is covered by this section.",
+  "keyPoints": [
+   "Minimum one year's imprisonment — the court cannot go below it",
+   "Physical injury is not required; the intent or knowledge is central",
+   "Verbal harassment without force falls under Section 79 instead"
+  ],
+  "relatedSectionIds": [
+   "bns-75",
+   "bns-79",
+   "bns-130"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 354",
+  "keywords": [
+   "modesty",
+   "woman",
+   "harassment",
+   "molestation",
+   "criminal force",
+   "grab"
+  ]
+ },
+ {
+  "id": "bns-75",
+  "actId": "bns",
+  "chapterId": "bns-ch5",
+  "number": "75",
+  "sortIndex": 750,
+  "title": "Sexual harassment",
+  "officialText": "(1) A man committing any of the following acts—\n\n(i) physical contact and advances involving unwelcome and explicit sexual overtures; or\n\n(ii) a demand or request for sexual favours; or\n\n(iii) showing pornography against the will of a woman; or\n\n(iv) making sexually coloured remarks,\n\nshall be guilty of the offence of sexual harassment.\n\n(2) Any man who commits the offence specified in clause (i) or clause (ii) or clause (iii) of sub-section (1) shall be punished with rigorous imprisonment for a term which may extend to three years, or with fine, or with both.\n\n(3) Any man who commits the offence specified in clause (iv) of sub-section (1) shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "Four kinds of conduct amount to sexual harassment: unwelcome physical contact and advances, demands for sexual favours, showing pornography against a woman's will, and sexually coloured remarks. The first three carry up to three years' imprisonment; remarks carry up to one year.",
+  "example": "A manager repeatedly messages a junior colleague demanding dates in exchange for a good appraisal. That is a demand for sexual favours — sexual harassment under this section, apart from any workplace consequences.",
+  "keyPoints": [
+   "Covers physical advances, demands for favours, forced pornography and sexually coloured remarks",
+   "Up to three years' rigorous imprisonment for the first three kinds; up to one year for remarks",
+   "Applies everywhere — the workplace POSH Act operates in addition, not instead"
+  ],
+  "relatedSectionIds": [
+   "bns-74",
+   "bns-79",
+   "bns-351"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 354A",
+  "keywords": [
+   "sexual harassment",
+   "workplace",
+   "remarks",
+   "advances",
+   "favours"
+  ]
+ },
+ {
+  "id": "bns-79",
+  "actId": "bns",
+  "chapterId": "bns-ch5",
+  "number": "79",
+  "sortIndex": 790,
+  "title": "Word, gesture or act intended to insult the modesty of a woman",
+  "officialText": "Whoever, intending to insult the modesty of any woman, utters any words, makes any sound or gesture, or exhibits any object in any form, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with simple imprisonment for a term which may extend to three years, and also with fine.",
+  "officialStatus": "full",
+  "explanation": "Insulting a woman's modesty by words, sounds, gestures or objects — or intruding on her privacy — is an offence even without any physical contact. Catcalling, obscene gestures and peeping are typical examples.",
+  "example": "A neighbour repeatedly makes obscene gestures at a woman from his balcony. No touch is involved, but the act is intended to insult her modesty and to be seen by her — an offence under this section.",
+  "keyPoints": [
+   "No physical contact needed — words, sounds, gestures and privacy intrusion are enough",
+   "Punishment: simple imprisonment up to three years, plus fine",
+   "Where force is used, Section 74 applies instead"
+  ],
+  "relatedSectionIds": [
+   "bns-74",
+   "bns-75"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 509",
+  "keywords": [
+   "insult",
+   "modesty",
+   "gesture",
+   "privacy",
+   "catcalling"
+  ]
+ },
+ {
+  "id": "bns-80",
+  "actId": "bns",
+  "chapterId": "bns-ch5",
+  "number": "80",
+  "sortIndex": 800,
+  "title": "Dowry death",
+  "officialText": "(1) Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage and it is shown that soon before her death she was subjected to cruelty or harassment by her husband or any relative of her husband for, or in connection with, any demand for dowry, such death shall be called “dowry death”, and such husband or relative shall be deemed to have caused her death.\n\n(2) Whoever commits dowry death shall be punished with imprisonment for a term which shall not be less than seven years but which may extend to imprisonment for life.",
+  "officialStatus": "full",
+  "explanation": "If a woman dies unnaturally within seven years of marriage and was harassed for dowry soon before her death, the law presumes her husband or his relatives caused the death — the burden then shifts to them. The minimum sentence is seven years; the maximum is life.",
+  "example": "A woman dies of burns at her marital home three years after marriage, and evidence shows persistent dowry demands and beatings in the preceding weeks. The law treats this as dowry death — the prosecution need not prove who lit the fire.",
+  "keyPoints": [
+   "Applies to unnatural deaths within seven years of marriage",
+   "Cruelty or harassment for dowry 'soon before' the death triggers a legal presumption",
+   "Minimum seven years' imprisonment, extendable to life"
+  ],
+  "relatedSectionIds": [
+   "bns-85",
+   "bns-86"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "cruelty"
+  ],
+  "ipcLabel": "IPC 304B",
+  "keywords": [
+   "dowry",
+   "death",
+   "marriage",
+   "harassment",
+   "in-laws"
+  ]
+ },
+ {
+  "id": "bns-85",
+  "actId": "bns",
+  "chapterId": "bns-ch5",
+  "number": "85",
+  "sortIndex": 850,
+  "title": "Husband or relative of husband of a woman subjecting her to cruelty",
+  "officialText": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "The offence popularly known by its old name — 498A. A husband, or his relatives, who subject a woman to cruelty face up to three years' imprisonment. What counts as cruelty is defined next door in Section 86: conduct likely to drive her to suicide or gravely injure her health, or harassment tied to unlawful demands.",
+  "example": "A husband and mother-in-law taunt and beat a woman for months to pressure her family into paying for a car. That is harassment linked to an unlawful demand — cruelty under Sections 85 and 86.",
+  "keyPoints": [
+   "Up to three years' imprisonment and fine",
+   "'Cruelty' is defined in Section 86 — mental cruelty counts as much as physical",
+   "Arrest is not automatic: the Supreme Court's Arnesh Kumar guidelines require recorded reasons"
+  ],
+  "relatedSectionIds": [
+   "bns-86",
+   "bns-80"
+  ],
+  "caseLawIds": [
+   "arnesh-kumar"
+  ],
+  "definitionIds": [
+   "cruelty",
+   "anticipatory-bail"
+  ],
+  "ipcLabel": "IPC 498A",
+  "keywords": [
+   "cruelty",
+   "husband",
+   "498a",
+   "dowry",
+   "harassment",
+   "marriage",
+   "in-laws"
+  ]
+ },
+ {
+  "id": "bns-86",
+  "actId": "bns",
+  "chapterId": "bns-ch5",
+  "number": "86",
+  "sortIndex": 860,
+  "title": "Cruelty defined",
+  "officialText": "For the purposes of section 85, “cruelty” means—\n\n(a) any wilful conduct which is of such a nature as is likely to drive the woman to commit suicide or to cause grave injury or danger to life, limb or health (whether mental or physical) of the woman; or\n\n(b) harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for any property or valuable security or is on account of failure by her or any person related to her to meet such demand.",
+  "officialStatus": "full",
+  "explanation": "Cruelty has two branches: wilful conduct likely to drive a woman to suicide or seriously harm her body or mind, and harassment aimed at extracting property or punishing unmet demands. Mental cruelty is expressly included.",
+  "example": "Constant threats of divorce and public humiliation intended to force a woman's parents to transfer land would fall under branch (b), even if no hand is ever raised.",
+  "keyPoints": [
+   "Defines cruelty for the offence in Section 85",
+   "Covers both mental and physical harm",
+   "Harassment linked to unlawful demands for property is cruelty"
+  ],
+  "relatedSectionIds": [
+   "bns-85",
+   "bns-80"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "cruelty"
+  ],
+  "ipcLabel": "IPC 498A (Explanation)",
+  "keywords": [
+   "cruelty",
+   "definition",
+   "mental",
+   "harassment",
+   "demand"
+  ]
+ },
+ {
+  "id": "bns-100",
+  "actId": "bns",
+  "chapterId": "bns-ch6",
+  "number": "100",
+  "sortIndex": 1000,
+  "title": "Culpable homicide",
+  "officialText": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.",
+  "officialStatus": "extract",
+  "textNote": "Explanations and illustrations appear in the official Gazette text.",
+  "explanation": "Culpable homicide is the genus — causing death with intention or knowledge. Murder (Section 101) is its most serious species. Every murder is culpable homicide, but culpable homicide is not murder when specific exceptions apply, such as grave and sudden provocation.",
+  "example": "A man punches another in a sudden street quarrel; the victim falls, hits his head and dies. Death was likely but perhaps not intended — courts would examine whether this is culpable homicide not amounting to murder, rather than murder.",
+  "keyPoints": [
+   "The foundational homicide offence — defined by intention or knowledge",
+   "Murder is culpable homicide plus stricter mental elements",
+   "Punishment is set out in Section 105, depending on the degree of intent"
+  ],
+  "relatedSectionIds": [
+   "bns-101",
+   "bns-103",
+   "bns-106"
+  ],
+  "caseLawIds": [
+   "km-nanavati"
+  ],
+  "definitionIds": [
+   "mens-rea"
+  ],
+  "ipcLabel": "IPC 299",
+  "keywords": [
+   "culpable homicide",
+   "death",
+   "kill",
+   "intention",
+   "knowledge"
+  ]
+ },
+ {
+  "id": "bns-101",
+  "actId": "bns",
+  "chapterId": "bns-ch6",
+  "number": "101",
+  "sortIndex": 1010,
+  "title": "Murder",
+  "officialText": "Except in the cases hereinafter excepted, culpable homicide is murder,—\n\n(a) if the act by which the death is caused is done with the intention of causing death; or\n\n(b) if it is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused; or\n\n(c) if it is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death; or\n\n(d) if the person committing the act by which the death is caused knows that it is so imminently dangerous that it must, in all probability, cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid.",
+  "officialStatus": "extract",
+  "textNote": "Five exceptions — including grave and sudden provocation and private defence exceeded in good faith — appear in the official Gazette text.",
+  "explanation": "Murder is culpable homicide committed with the highest degrees of intent — from outright intention to kill, to inflicting an injury sufficient in the ordinary course of nature to cause death. Five exceptions (like grave and sudden provocation) bring a killing back down to culpable homicide not amounting to murder.",
+  "example": "Stabbing a person in the chest during a planned attack is murder under clause (c): the injury was intended, and such an injury is sufficient in the ordinary course of nature to cause death — as the Supreme Court explained in Virsa Singh.",
+  "keyPoints": [
+   "Four alternative mental states elevate culpable homicide to murder",
+   "Five exceptions reduce murder to culpable homicide — provocation, excessive private defence, and others",
+   "Punishment: Section 103 — death or imprisonment for life"
+  ],
+  "relatedSectionIds": [
+   "bns-100",
+   "bns-103",
+   "bns-109"
+  ],
+  "caseLawIds": [
+   "virsa-singh",
+   "km-nanavati"
+  ],
+  "definitionIds": [
+   "mens-rea"
+  ],
+  "ipcLabel": "IPC 300",
+  "keywords": [
+   "murder",
+   "kill",
+   "death",
+   "intention",
+   "302"
+  ]
+ },
+ {
+  "id": "bns-103",
+  "actId": "bns",
+  "chapterId": "bns-ch6",
+  "number": "103",
+  "sortIndex": 1030,
+  "title": "Punishment for murder",
+  "officialText": "(1) Whoever commits murder shall be punished with death or with imprisonment for life, and shall also be liable to fine.\n\n(2) When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member of such group shall be punished with death or with imprisonment for life, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Murder carries only two sentences: death, or imprisonment for life, with fine. Sub-section (2) is new — it squarely addresses mob lynching, making every member of a group of five or more who kill on grounds like caste, community or language liable to the same maximum punishment.",
+  "example": "If a mob of six attacks and kills a man over his religion, each participant — not just whoever struck the fatal blow — faces death or life imprisonment under sub-section (2).",
+  "keyPoints": [
+   "Only two possible sentences: death, or imprisonment for life (plus fine)",
+   "Sub-section (2) targets mob lynching — five or more persons killing on identity grounds",
+   "Imprisonment for life means the remainder of natural life, subject to lawful remission"
+  ],
+  "relatedSectionIds": [
+   "bns-101",
+   "bns-100"
+  ],
+  "caseLawIds": [
+   "virsa-singh"
+  ],
+  "definitionIds": [
+   "cognizable"
+  ],
+  "ipcLabel": "IPC 302",
+  "keywords": [
+   "murder punishment",
+   "death penalty",
+   "life imprisonment",
+   "lynching",
+   "mob"
+  ]
+ },
+ {
+  "id": "bns-106",
+  "actId": "bns",
+  "chapterId": "bns-ch6",
+  "number": "106",
+  "sortIndex": 1060,
+  "title": "Causing death by negligence",
+  "officialText": "(1) Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.\n\n(2) Whoever causes death of any person by rash and negligent driving of vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "textNote": "The Government announced at commencement that sub-section (2) would not be brought into effect pending consultation with transport associations.",
+  "explanation": "Death caused by a rash or negligent act — most commonly road accidents — is punishable with up to five years, a jump from two under the IPC. Doctors have a separate, lower ceiling of two years for deaths during medical procedures. Sub-section (2) creates a distinct hit-and-run offence with up to ten years for drivers who flee without reporting.",
+  "example": "A speeding driver jumps a red light and fatally hits a pedestrian. If he stops and reports, sub-section (1) applies — up to five years. If he flees the scene without informing the police, sub-section (2) raises the exposure to ten.",
+  "keyPoints": [
+   "Maximum sentence raised from two years (IPC 304A) to five",
+   "Registered medical practitioners: separate two-year ceiling for deaths during procedures",
+   "Hit-and-run without reporting: up to ten years under sub-section (2) — held in abeyance at commencement"
+  ],
+  "relatedSectionIds": [
+   "bns-281",
+   "bns-100"
+  ],
+  "caseLawIds": [
+   "jacob-mathew"
+  ],
+  "definitionIds": [
+   "fir"
+  ],
+  "ipcLabel": "IPC 304A",
+  "keywords": [
+   "negligence",
+   "accident",
+   "death",
+   "rash driving",
+   "hit and run",
+   "doctor"
+  ]
+ },
+ {
+  "id": "bns-109",
+  "actId": "bns",
+  "chapterId": "bns-ch6",
+  "number": "109",
+  "sortIndex": 1090,
+  "title": "Attempt to murder",
+  "officialText": "(1) Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned.",
+  "officialStatus": "extract",
+  "textNote": "Sub-section (2), on attempts by life-convicts, appears in the official Gazette text.",
+  "explanation": "An act done with murderous intention that fails to kill is attempt to murder. The test: had death resulted, would it have been murder? Up to ten years ordinarily; if the attempt actually hurts someone, the ceiling rises to imprisonment for life.",
+  "example": "Firing a gun at someone and missing is attempt to murder. If the bullet grazes the victim's arm, the enhanced limb applies — up to life.",
+  "keyPoints": [
+   "Complete murderous intention plus an act — death simply did not result",
+   "Up to ten years; up to life if hurt is caused",
+   "A life-convict who attempts murder and causes hurt may face the death penalty"
+  ],
+  "relatedSectionIds": [
+   "bns-101",
+   "bns-103",
+   "bns-115"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "mens-rea"
+  ],
+  "ipcLabel": "IPC 307",
+  "keywords": [
+   "attempt to murder",
+   "attack",
+   "shoot",
+   "stab"
+  ]
+ },
+ {
+  "id": "bns-115",
+  "actId": "bns",
+  "chapterId": "bns-ch6",
+  "number": "115",
+  "sortIndex": 1150,
+  "title": "Voluntarily causing hurt",
+  "officialText": "(1) Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said “voluntarily to cause hurt”.\n\n(2) Whoever, except in the case provided for by sub-section (1) of section 122, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.",
+  "officialStatus": "full",
+  "explanation": "'Hurt' means bodily pain, disease or infirmity (Section 114). Causing it intentionally or knowingly is the everyday offence of simple hurt — slaps, punches, minor injuries — punishable with up to a year, a ₹10,000 fine, or both.",
+  "example": "During an argument over parking, one neighbour punches another, bruising his face. That is voluntarily causing hurt; if a weapon or serious injury were involved, graver sections would apply.",
+  "keyPoints": [
+   "Covers intentional minor bodily harm — the base offence in everyday assault cases",
+   "Up to one year's imprisonment, or a ₹10,000 fine, or both",
+   "Grievous injuries move up to Sections 116–117"
+  ],
+  "relatedSectionIds": [
+   "bns-116",
+   "bns-130",
+   "bns-74"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 321 · 323",
+  "keywords": [
+   "hurt",
+   "injury",
+   "beat",
+   "hit",
+   "slap",
+   "fight"
+  ]
+ },
+ {
+  "id": "bns-116",
+  "actId": "bns",
+  "chapterId": "bns-ch6",
+  "number": "116",
+  "sortIndex": 1160,
+  "title": "Grievous hurt",
+  "officialText": null,
+  "officialStatus": "unavailable",
+  "textNote": "Section 116 lists the specific kinds of hurt the law designates as grievous. The full statutory list is being prepared for LexIndia — refer to the official Gazette until then.",
+  "explanation": "Grievous hurt is the law's list of serious injuries: emasculation, permanent loss of sight or hearing, loss of a limb or joint, permanent disfiguration of the head or face, fracture or dislocation of a bone or tooth, and any hurt that endangers life or leaves the victim in severe bodily pain — or unable to follow their ordinary pursuits — for fifteen days.",
+  "example": "Breaking someone's arm in a fight is grievous hurt — a fracture is on the statutory list — punishable under Section 117 with up to seven years.",
+  "keyPoints": [
+   "A closed statutory list of serious injuries — fractures, disfiguration, loss of senses or limbs",
+   "The 'severe bodily pain' threshold is fifteen days under the BNS (twenty under the IPC)",
+   "Punishment comes from Section 117 — up to seven years"
+  ],
+  "relatedSectionIds": [
+   "bns-115",
+   "bns-130"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 320",
+  "keywords": [
+   "grievous hurt",
+   "fracture",
+   "serious injury",
+   "disfiguration"
+  ]
+ },
+ {
+  "id": "bns-130",
+  "actId": "bns",
+  "chapterId": "bns-ch6",
+  "number": "130",
+  "sortIndex": 1300,
+  "title": "Assault",
+  "officialText": "Whoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault.\n\nExplanation.—Mere words do not amount to an assault. But the words which a person uses may give to his gestures or preparation such a meaning as may make those gestures or preparations amount to an assault.",
+  "officialStatus": "full",
+  "explanation": "In law, assault is the threat, not the blow. Raising a fist, picking up a stick, advancing menacingly — anything that makes a person reasonably fear immediate force is assault, even if no touch follows. Actual violence is 'criminal force', and injury is 'hurt'.",
+  "example": "A man raises a cricket bat and steps toward a shopkeeper, shouting threats. Even if he never swings, the shopkeeper's reasonable fear of imminent force makes this an assault.",
+  "keyPoints": [
+   "Assault means creating fear of imminent force; contact is not required",
+   "Words alone are not assault, but they can colour a gesture into one",
+   "Punishment (Section 131): up to three months, fine, or both"
+  ],
+  "relatedSectionIds": [
+   "bns-34",
+   "bns-115",
+   "bns-351"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 351 · 352",
+  "keywords": [
+   "assault",
+   "threat",
+   "fear",
+   "gesture",
+   "criminal force"
+  ]
+ },
+ {
+  "id": "bns-152",
+  "actId": "bns",
+  "chapterId": "bns-ch7",
+  "number": "152",
+  "sortIndex": 1520,
+  "title": "Act endangering sovereignty, unity and integrity of India",
+  "officialText": "Whoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial means, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or with imprisonment which may extend to seven years, and shall also be liable to fine.",
+  "officialStatus": "extract",
+  "textNote": "An Explanation — clarifying that comments expressing disapprobation of government measures, seeking their alteration by lawful means, do not constitute an offence under this section — appears in the official Gazette text.",
+  "explanation": "The colonial offence of sedition is repealed. In its place, Section 152 punishes deliberately exciting secession, armed rebellion or subversive activities, or endangering India's sovereignty and unity — including through electronic or financial means. Lawful criticism of the government is expressly outside the offence.",
+  "example": "Publishing posts that call for an armed uprising against the Union could fall within this section. A newspaper editorial harshly criticising government policy and demanding legal reform would not.",
+  "keyPoints": [
+   "Replaces sedition (IPC 124A) with a differently framed offence",
+   "Covers electronic communication and the use of financial means",
+   "Lawful criticism of government measures is expressly protected by the Explanation"
+  ],
+  "relatedSectionIds": [],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 124A (replaced)",
+  "keywords": [
+   "sedition",
+   "sovereignty",
+   "rebellion",
+   "secession",
+   "152"
+  ]
+ },
+ {
+  "id": "bns-281",
+  "actId": "bns",
+  "chapterId": "bns-ch15",
+  "number": "281",
+  "sortIndex": 2810,
+  "title": "Rash driving or riding on a public way",
+  "officialText": "Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+  "officialStatus": "full",
+  "explanation": "Dangerous driving is an offence in itself — nobody needs to be hurt. The test is whether the manner of driving endangered human life or was likely to cause injury. If someone is actually injured or killed, graver sections (115, 106) apply alongside Motor Vehicles Act penalties.",
+  "example": "Weaving through a crowded market at high speed is punishable under this section even if, by luck, no one is touched.",
+  "keyPoints": [
+   "Punishes the dangerous manner of driving — harm is not required",
+   "Up to six months' imprisonment, or fine, or both",
+   "Injury or death escalates the matter to Sections 115 or 106"
+  ],
+  "relatedSectionIds": [
+   "bns-106",
+   "bns-115"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "cognizable"
+  ],
+  "ipcLabel": "IPC 279",
+  "keywords": [
+   "rash driving",
+   "negligent",
+   "traffic",
+   "accident",
+   "speeding",
+   "vehicle"
+  ]
+ },
+ {
+  "id": "bns-303",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "303",
+  "sortIndex": 3030,
+  "title": "Theft",
+  "officialText": "(1) Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft.\n\n(2) Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both, and in case of second or subsequent conviction of any person under this section, he shall be punished with rigorous imprisonment for a term which shall not be less than one year but which may extend to five years, and with fine.",
+  "officialStatus": "extract",
+  "textNote": "Explanations and illustrations, and the proviso allowing community service for first-time petty theft (property under five thousand rupees, on return or restoration), appear in the official Gazette text.",
+  "explanation": "Theft has five ingredients: dishonest intention, movable property, taken out of someone's possession, without consent, with some movement of the property. Even a momentary taking counts. First-time petty theft can end in community service if the property is returned.",
+  "example": "Taking a parked scooter for a joyride and abandoning it two streets away is theft — the dishonest moving out of possession is complete, even though the rider never meant to keep it.",
+  "keyPoints": [
+   "Five ingredients: dishonesty, movable property, possession, no consent, movement",
+   "Up to three years for a first offence; repeat convictions carry a one-to-five-year range",
+   "First-time petty theft (under ₹5,000) can be punished with community service on return of the property"
+  ],
+  "relatedSectionIds": [
+   "bns-304",
+   "bns-309",
+   "bns-317"
+  ],
+  "caseLawIds": [
+   "pyare-lal"
+  ],
+  "definitionIds": [
+   "dishonestly",
+   "movable-property"
+  ],
+  "ipcLabel": "IPC 378 · 379",
+  "keywords": [
+   "theft",
+   "steal",
+   "chori",
+   "stolen",
+   "take"
+  ]
+ },
+ {
+  "id": "bns-304",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "304",
+  "sortIndex": 3040,
+  "title": "Snatching",
+  "officialText": "(1) Theft is snatching if, in order to commit theft, the offender suddenly or quickly or forcibly seizes or secures or grabs or takes away from any person or from his possession any movable property.\n\n(2) Whoever commits snatching, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "explanation": "Snatching — the chain pulled from a neck, the phone grabbed from a hand — is now a distinct offence, separate from ordinary theft. The essence is the sudden or forcible grab from a person. It always carries imprisonment plus fine.",
+  "example": "A rider on a passing motorcycle yanks a pedestrian's mobile phone from her hand. That sudden seizure from her person is snatching, not mere theft.",
+  "keyPoints": [
+   "A standalone offence in the BNS — the IPC had no separate snatching provision",
+   "Sudden, quick or forcible seizure from a person is the defining act",
+   "Up to three years' imprisonment, and fine — fine is mandatory, unlike theft"
+  ],
+  "relatedSectionIds": [
+   "bns-303",
+   "bns-309"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "movable-property"
+  ],
+  "ipcLabel": "New in BNS",
+  "keywords": [
+   "snatching",
+   "chain",
+   "phone",
+   "grab",
+   "seize"
+  ]
+ },
+ {
+  "id": "bns-308",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "308",
+  "sortIndex": 3080,
+  "title": "Extortion",
+  "officialText": "(1) Whoever intentionally puts any person in fear of any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security, or anything signed or sealed which may be converted into a valuable security, commits “extortion”.",
+  "officialStatus": "extract",
+  "textNote": "Sub-sections (2) to (7), grading punishment by the gravity of the threat, appear in the official Gazette text.",
+  "explanation": "Extortion is obtaining property by fear: threats of injury — physical, reputational or otherwise — that make the victim hand something over. Unlike theft, the victim delivers the property; unlike robbery, the fear need not be of instant harm.",
+  "example": "\"Pay ₹50,000 or your shop burns\" — money handed over under that threat is extortion. If the threat is of instant violence face-to-face, the offence escalates to robbery.",
+  "keyPoints": [
+   "Property is delivered under fear of injury — delivery distinguishes it from theft",
+   "Threats can target the victim or anyone they care about",
+   "Punishment scales with the threat, up to and including threats of death or grievous hurt"
+  ],
+  "relatedSectionIds": [
+   "bns-309",
+   "bns-351",
+   "bns-303"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "dishonestly"
+  ],
+  "ipcLabel": "IPC 383 · 384",
+  "keywords": [
+   "extortion",
+   "threat",
+   "ransom",
+   "blackmail",
+   "hafta"
+  ]
+ },
+ {
+  "id": "bns-309",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "309",
+  "sortIndex": 3090,
+  "title": "Robbery",
+  "officialText": "(1) In all robbery there is either theft or extortion.\n\n(2) Theft is “robbery” if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint.",
+  "officialStatus": "extract",
+  "textNote": "Sub-section (3), on when extortion is robbery, and sub-sections (4) to (6) on punishment appear in the official Gazette text.",
+  "explanation": "Robbery is theft or extortion turned violent and immediate. Theft becomes robbery when the thief causes or threatens instant death, hurt or restraint to pull it off; extortion becomes robbery when the offender is present and the fear is of instant harm.",
+  "example": "Two men corner a delivery agent; one twists his arm while the other takes the cash bag. The hurt caused in order to take the property makes this robbery.",
+  "keyPoints": [
+   "Robbery is theft or extortion plus violence, or fear of instant violence",
+   "The violence must be for the very purpose of the taking or the escape",
+   "Rigorous imprisonment up to ten years; up to fourteen for highway robbery between sunset and sunrise"
+  ],
+  "relatedSectionIds": [
+   "bns-303",
+   "bns-308",
+   "bns-310"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "cognizable"
+  ],
+  "ipcLabel": "IPC 390 · 392",
+  "keywords": [
+   "robbery",
+   "loot",
+   "violence",
+   "mugging"
+  ]
+ },
+ {
+  "id": "bns-310",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "310",
+  "sortIndex": 3100,
+  "title": "Dacoity",
+  "officialText": "(1) When five or more persons conjointly commit or attempt to commit a robbery, or where the whole number of persons conjointly committing or attempting to commit a robbery, and persons present and aiding such commission or attempt, amount to five or more, every person so committing, attempting or aiding, is said to commit “dacoity”.",
+  "officialStatus": "extract",
+  "textNote": "Sub-sections (2) to (6), including dacoity with murder and the punishments, appear in the official Gazette text.",
+  "explanation": "Robbery by a group of five or more — counting those who aid on the spot — is dacoity, one of the gravest property offences. Every member present and participating is equally liable, and even preparation is punishable.",
+  "example": "Five men storm a highway dhaba at night, two waving weapons while three empty the till. All five commit dacoity, including the lookouts.",
+  "keyPoints": [
+   "Five or more persons acting together turns robbery into dacoity",
+   "Aiders present at the scene count toward the five",
+   "Punishment: imprisonment for life, or rigorous imprisonment up to ten years, with fine"
+  ],
+  "relatedSectionIds": [
+   "bns-309",
+   "bns-303"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 391 · 395",
+  "keywords": [
+   "dacoity",
+   "gang",
+   "robbery",
+   "armed",
+   "loot"
+  ]
+ },
+ {
+  "id": "bns-316",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "316",
+  "sortIndex": 3160,
+  "title": "Criminal breach of trust",
+  "officialText": "(1) Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits “criminal breach of trust”.",
+  "officialStatus": "extract",
+  "textNote": "Sub-sections (2) to (5), grading punishment for carriers, employees, and public servants or bankers, appear in the official Gazette text.",
+  "explanation": "This offence begins with trust: property handed over for a purpose — by an employer, a client, a family member — and then dishonestly pocketed or diverted. The betrayal of entrustment is what separates it from theft. Punishments rise with the degree of trust, up to life imprisonment for public servants and bankers.",
+  "example": "A housing-society treasurer collects maintenance money from residents and quietly moves it into his personal account. He was entrusted with the funds; diverting them is criminal breach of trust.",
+  "keyPoints": [
+   "Requires entrustment — the accused lawfully held the property first",
+   "Basic punishment raised to five years under the BNS (three under IPC 406)",
+   "Aggravated forms: employees up to ten years; public servants and bankers up to life"
+  ],
+  "relatedSectionIds": [
+   "bns-318",
+   "bns-317",
+   "bns-303"
+  ],
+  "caseLawIds": [
+   "rashmi-kumar"
+  ],
+  "definitionIds": [
+   "dishonestly",
+   "stridhan"
+  ],
+  "ipcLabel": "IPC 405 · 406",
+  "keywords": [
+   "breach of trust",
+   "misappropriation",
+   "embezzlement",
+   "entrusted",
+   "funds"
+  ]
+ },
+ {
+  "id": "bns-317",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "317",
+  "sortIndex": 3170,
+  "title": "Stolen property",
+  "officialText": "(1) Property, the possession whereof has been transferred by theft or extortion or robbery or cheating, and property which has been criminally misappropriated or in respect of which criminal breach of trust has been committed, is designated as “stolen property”, whether the transfer has been made, or the misappropriation or breach of trust has been committed, within or outside India. But, if such property subsequently comes into the possession of a person legally entitled to the possession thereof, it then ceases to be stolen property.\n\n(2) Whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the same to be stolen property, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+  "officialStatus": "extract",
+  "textNote": "Sub-sections (3) to (5), on habitual receivers and concealment, appear in the official Gazette text.",
+  "explanation": "Buying or keeping goods you know — or should know — are stolen is itself an offence. The law targets the market that makes theft profitable. 'Stolen property' covers the proceeds of theft, extortion, robbery, cheating and breach of trust.",
+  "example": "A dealer buys a nearly new phone for a tenth of its price from a stranger with no box or bill. The suspicious circumstances give 'reason to believe' it is stolen — receiving it is an offence.",
+  "keyPoints": [
+   "Knowingly receiving or retaining stolen goods: up to three years, or fine, or both",
+   "'Reason to believe' is enough — wilful blindness is no defence",
+   "Property ceases to be stolen once restored to the rightful owner"
+  ],
+  "relatedSectionIds": [
+   "bns-303",
+   "bns-318",
+   "bns-316"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "dishonestly"
+  ],
+  "ipcLabel": "IPC 410 · 411",
+  "keywords": [
+   "stolen property",
+   "receiver",
+   "buy",
+   "secondhand"
+  ]
+ },
+ {
+  "id": "bns-318",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "318",
+  "sortIndex": 3180,
+  "title": "Cheating",
+  "officialText": "(1) Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to “cheat”.\n\nExplanation.—A dishonest concealment of facts is a deception within the meaning of this section.\n\n(2) Whoever cheats shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.\n\n(3) Whoever cheats with the knowledge that he is likely thereby to cause wrongful loss to a person whose interest in the transaction to which the cheating relates, he was bound, either by law or by legal contract, to protect, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.\n\n(4) Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+  "officialStatus": "full",
+  "textNote": "Illustrations appear in the official Gazette text.",
+  "explanation": "Cheating is deception that makes someone part with property or act to their own harm. Two things must exist together: a lie (or dishonest concealment) and an inducement that causes damage. The gravest form — deceiving someone into delivering property, the old 'Section 420' — sits in sub-section (4) with up to seven years.",
+  "example": "A man collects ₹2 lakh as 'advance booking' for flats in a project he knows does not exist, then vanishes. The deception existed from the start and induced delivery of money — cheating under sub-section (4). If a genuine builder simply ran late, that would be breach of contract, not cheating.",
+  "keyPoints": [
+   "Deception, inducement and harm must all be present",
+   "Dishonest concealment of facts counts as deception",
+   "Sub-section (4) is the old IPC 420 — property delivered by deception, up to seven years",
+   "A promise that fails later is not cheating unless the dishonest intention existed at the start"
+  ],
+  "relatedSectionIds": [
+   "bns-319",
+   "bns-316",
+   "bns-336",
+   "bns-317"
+  ],
+  "caseLawIds": [
+   "hridaya-ranjan"
+  ],
+  "definitionIds": [
+   "dishonestly",
+   "fraudulently"
+  ],
+  "ipcLabel": "IPC 415 · 417 · 420",
+  "keywords": [
+   "cheating",
+   "420",
+   "fraud",
+   "scam",
+   "deceive",
+   "dhokha",
+   "money"
+  ]
+ },
+ {
+  "id": "bns-319",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "319",
+  "sortIndex": 3190,
+  "title": "Cheating by personation",
+  "officialText": "(1) A person is said to “cheat by personation” if he cheats by pretending to be some other person, or by knowingly substituting one person for another, or representing that he or any other person is a person other than he or such other person really is.\n\nExplanation.—The offence is committed whether the individual personated is a real or imaginary person.\n\n(2) Whoever cheats by personation shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "Cheating while pretending to be someone else — a bank officer, a police official, a relative, even a person who doesn't exist — is a distinct, graver form of cheating. Done through a phone or computer, it is separately punishable under Section 66D of the IT Act.",
+  "example": "A caller poses as a bank's fraud officer and talks a customer into revealing an OTP, draining her account. Pretending to be another person in order to cheat is cheating by personation; through a phone it also triggers IT Act Section 66D.",
+  "keyPoints": [
+   "Cheating plus a false identity equals cheating by personation",
+   "The impersonated person may be real or imaginary",
+   "Up to five years; online impersonation adds IT Act 66D"
+  ],
+  "relatedSectionIds": [
+   "bns-318",
+   "it-66d",
+   "it-66c"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "fraudulently"
+  ],
+  "ipcLabel": "IPC 416",
+  "keywords": [
+   "impersonation",
+   "personation",
+   "fake identity",
+   "posing",
+   "otp",
+   "fraud call"
+  ]
+ },
+ {
+  "id": "bns-320",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "320",
+  "sortIndex": 3200,
+  "title": "Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors",
+  "officialText": "Whoever dishonestly or fraudulently removes, conceals or delivers to any person, or transfers or causes to be transferred to any person, without adequate consideration, any property, intending thereby to prevent, or knowing it to be likely that he will thereby prevent, the distribution of that property according to law among his creditors or the creditors of any other person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+  "officialStatus": "extract",
+  "textNote": "Extract — refer to the official Gazette for the authoritative text.",
+  "explanation": "A debtor who hides or gives away property so that creditors cannot lawfully recover it commits this offence. The law protects the legal process of distributing a debtor's property — moving assets to a relative ‘on paper’ to defeat recovery is the classic case.",
+  "example": "Facing recovery proceedings, a businessman ‘gifts’ his car and shop stock to a cousin so the court can find nothing to attach. That transfer can amount to this offence.",
+  "keyPoints": [
+   "Targets moving, hiding or transferring property to defeat creditors",
+   "The transfer must be dishonest or fraudulent and without adequate consideration",
+   "Punishable with imprisonment up to two years, or fine, or both"
+  ],
+  "relatedSectionIds": [
+   "bns-316",
+   "bns-318"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "dishonestly",
+   "fraudulently"
+  ],
+  "ipcLabel": "IPC 421",
+  "keywords": [
+   "creditors",
+   "fraudulent transfer",
+   "concealment",
+   "debtor",
+   "property"
+  ]
+ },
+ {
+  "id": "bns-324",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "324",
+  "sortIndex": 3240,
+  "title": "Mischief",
+  "officialText": "(1) Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits “mischief”.",
+  "officialStatus": "extract",
+  "textNote": "The Explanations, and sub-sections (2) to (6) grading punishment by the value and kind of property, appear in the official Gazette text.",
+  "explanation": "Mischief is the offence of damaging property — breaking, defacing, disabling, or otherwise reducing its value or usefulness — with intent or knowledge of the loss it causes. Punishments scale with the damage.",
+  "example": "Slashing a rival shopkeeper's delivery-van tyres overnight is mischief: deliberate damage that diminishes the van's utility.",
+  "keyPoints": [
+   "Protects property from deliberate damage, not taking",
+   "Intent or knowledge of wrongful loss is essential — accidents are not mischief",
+   "Punishment scales with the amount and nature of the damage"
+  ],
+  "relatedSectionIds": [
+   "bns-329",
+   "bns-303"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "wrongful-gain"
+  ],
+  "ipcLabel": "IPC 425 · 426",
+  "keywords": [
+   "mischief",
+   "damage",
+   "vandalism",
+   "destroy",
+   "property damage"
+  ]
+ },
+ {
+  "id": "bns-329",
+  "actId": "bns",
+  "chapterId": "bns-ch17",
+  "number": "329",
+  "sortIndex": 3290,
+  "title": "Criminal trespass and house-trespass",
+  "officialText": "(1) Whoever enters into or upon property in the possession of another with intent to commit an offence or to intimidate, insult or annoy any person in possession of such property, or having lawfully entered into or upon such property, unlawfully remains there with intent thereby to intimidate, insult or annoy any such person, or with intent to commit an offence, is said to commit “criminal trespass”.\n\n(2) Whoever commits criminal trespass by entering into or remaining in any building, tent or vessel used as a human dwelling or any building used as a place for worship, or as a place for the custody of property, is said to commit “house-trespass”.",
+  "officialStatus": "extract",
+  "textNote": "Sub-sections (3) and (4), prescribing punishment for criminal trespass and house-trespass, appear in the official Gazette text.",
+  "explanation": "Entering someone's property intending to commit an offence or to intimidate, insult or annoy them — or lawfully entering and then unlawfully staying with that intent — is criminal trespass. Do it in a dwelling, place of worship or property-custody building and it becomes house-trespass, punished more severely.",
+  "example": "A recovery agent barges into a debtor's home and refuses to leave, shouting threats. Entering another's dwelling to intimidate is house-trespass — regardless of whether any debt is genuinely owed.",
+  "keyPoints": [
+   "Intent matters: entry to commit an offence or to intimidate, insult or annoy",
+   "Overstaying after lawful entry can also be trespass",
+   "House-trespass — dwellings and places of worship — is punished more severely"
+  ],
+  "relatedSectionIds": [
+   "bns-324",
+   "bns-308"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 441 · 442 · 447",
+  "keywords": [
+   "trespass",
+   "enter",
+   "house",
+   "property",
+   "possession",
+   "intrude"
+  ]
+ },
+ {
+  "id": "bns-336",
+  "actId": "bns",
+  "chapterId": "bns-ch18",
+  "number": "336",
+  "sortIndex": 3360,
+  "title": "Forgery",
+  "officialText": "(1) Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery.",
+  "officialStatus": "extract",
+  "textNote": "Sub-sections (2) to (4), prescribing punishments including forgery for cheating and forgery to harm reputation, appear in the official Gazette text.",
+  "explanation": "Forgery is making a false document — paper or electronic — to cause harm, claim a right, or commit fraud. Fake signatures, doctored certificates, tampered PDFs and forged electronic records all qualify.",
+  "example": "An applicant edits a PDF marksheet to inflate grades and submits it for a job. Making a false electronic record to gain advantage is forgery; using it adds further offences.",
+  "keyPoints": [
+   "Covers paper and electronic records alike",
+   "The intent — harm, false claim, or fraud — is the heart of the offence",
+   "Forgery for the purpose of cheating carries up to seven years"
+  ],
+  "relatedSectionIds": [
+   "bns-318",
+   "bns-317"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "fraudulently"
+  ],
+  "ipcLabel": "IPC 463 · 465",
+  "keywords": [
+   "forgery",
+   "fake document",
+   "signature",
+   "certificate",
+   "tamper"
+  ]
+ },
+ {
+  "id": "bns-351",
+  "actId": "bns",
+  "chapterId": "bns-ch19",
+  "number": "351",
+  "sortIndex": 3510,
+  "title": "Criminal intimidation",
+  "officialText": "(1) Whoever threatens another by any means, with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation.",
+  "officialStatus": "extract",
+  "textNote": "The Explanation, and sub-sections (2) to (4) prescribing punishments — including for threats of death or grievous hurt and anonymous threats — appear in the official Gazette text.",
+  "explanation": "Threatening injury — to a person's body, reputation or property, or to someone they love — in order to frighten them or force their hand is criminal intimidation. The threat itself is the offence; the BNS adds 'by any means', squarely covering calls, messages and posts.",
+  "example": "\"Withdraw your complaint or your shop will burn\" sent over WhatsApp is criminal intimidation: a threat of injury to property, made to force someone to omit an act they are legally entitled to do.",
+  "keyPoints": [
+   "The threat is the offence — no harm need follow",
+   "Made 'by any means': in person, by phone, online",
+   "Base punishment up to two years; threats of death or grievous hurt raise it to seven"
+  ],
+  "relatedSectionIds": [
+   "bns-308",
+   "bns-352",
+   "bns-130"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 503 · 506",
+  "keywords": [
+   "threat",
+   "intimidation",
+   "threaten",
+   "dhamki",
+   "blackmail"
+  ]
+ },
+ {
+  "id": "bns-352",
+  "actId": "bns",
+  "chapterId": "bns-ch19",
+  "number": "352",
+  "sortIndex": 3520,
+  "title": "Intentional insult with intent to provoke breach of the peace",
+  "officialText": "Whoever intentionally insults in any manner, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+  "officialStatus": "full",
+  "explanation": "Deliberately insulting someone in a way calculated to provoke them into breaking the peace is an offence — the law's answer to fighting words. The focus is the likely effect: retaliation and public disorder.",
+  "example": "Hurling abuse at a man in a crowded market, knowing it will likely provoke a brawl, falls under this section — apart from special statutes that may also apply.",
+  "keyPoints": [
+   "Targets insults likely to provoke violence — 'fighting words'",
+   "Intention or knowledge of likely provocation is required",
+   "Up to two years, or fine, or both"
+  ],
+  "relatedSectionIds": [
+   "bns-351",
+   "bns-356"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 504",
+  "keywords": [
+   "insult",
+   "provoke",
+   "abuse",
+   "gali",
+   "fight"
+  ]
+ },
+ {
+  "id": "bns-356",
+  "actId": "bns",
+  "chapterId": "bns-ch19",
+  "number": "356",
+  "sortIndex": 3560,
+  "title": "Defamation",
+  "officialText": "(1) Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes in any manner, any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.\n\n(2) Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both, or with community service.",
+  "officialStatus": "extract",
+  "textNote": "Four Explanations and ten Exceptions — including truth for the public good, fair comment on public conduct, and good-faith accusations to lawful authorities — appear in the official Gazette text.",
+  "explanation": "Harming someone's reputation by publishing an imputation about them — in speech, writing, images or posts — is defamation. Ten exceptions protect truth spoken for the public good, fair criticism of public conduct, and complaints made in good faith to the right authority. The BNS adds community service as a possible sentence.",
+  "example": "Posting a flyer in a housing society falsely calling a resident a thief is defamation: a published imputation intended to harm reputation. Reporting a genuine suspicion to the police, in good faith, is not.",
+  "keyPoints": [
+   "Publication to a third person is essential — a private insult is not defamation",
+   "Truth alone is not a defence; it must also serve the public good",
+   "Punishment: up to two years' simple imprisonment, fine, both — or community service (new)"
+  ],
+  "relatedSectionIds": [
+   "bns-352",
+   "bns-351"
+  ],
+  "caseLawIds": [
+   "subramanian-swamy"
+  ],
+  "definitionIds": [
+   "community-service",
+   "non-cognizable"
+  ],
+  "ipcLabel": "IPC 499 · 500",
+  "keywords": [
+   "defamation",
+   "reputation",
+   "badnami",
+   "slander",
+   "libel",
+   "post"
+  ]
+ }
+]

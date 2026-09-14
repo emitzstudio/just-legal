@@ -1,0 +1,217 @@
+[
+ {
+  "id": "ic-10",
+  "actId": "contract-act",
+  "chapterId": "ic-ch2",
+  "number": "10",
+  "sortIndex": 100,
+  "title": "What agreements are contracts",
+  "officialText": "All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.\n\nNothing herein contained shall affect any law in force in India, and not hereby expressly repealed, by which any contract is required to be made in writing or in the presence of witnesses, or any law relating to the registration of documents.",
+  "officialStatus": "full",
+  "explanation": "The four pillars of a binding contract: free consent, competent parties (adults of sound mind), lawful consideration, and a lawful object. Most contracts need no stamp paper or ceremony — an exchange of clear promises is enough, unless a specific law requires writing or registration.",
+  "example": "You agree over the phone to buy a friend's used laptop for ₹30,000 and he agrees to sell. A contract exists — free consent, lawful object, lawful consideration — even with nothing on paper (though writing makes it easier to prove).",
+  "keyPoints": [
+   "Free consent + competent parties + lawful consideration + lawful object = contract",
+   "Oral contracts are generally valid — writing helps proof, not validity",
+   "Some contracts must be written or registered under other laws (property sales, for instance)"
+  ],
+  "relatedSectionIds": [
+   "ic-14",
+   "ic-73"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": null,
+  "keywords": [
+   "contract",
+   "agreement",
+   "valid",
+   "binding",
+   "deal"
+  ],
+  "curated": true
+ },
+ {
+  "id": "ic-14",
+  "actId": "contract-act",
+  "chapterId": "ic-ch2",
+  "number": "14",
+  "sortIndex": 140,
+  "title": "“Free consent” defined",
+  "officialText": "Consent is said to be free when it is not caused by—\n\n(1) coercion, as defined in section 15, or\n\n(2) undue influence, as defined in section 16, or\n\n(3) fraud, as defined in section 17, or\n\n(4) misrepresentation, as defined in section 18, or\n\n(5) mistake, subject to the provisions of sections 20, 21 and 22.\n\nConsent is said to be so caused when it would not have been given but for the existence of such coercion, undue influence, fraud, misrepresentation or mistake.",
+  "officialStatus": "full",
+  "explanation": "Consent is only 'free' if it wasn't extracted by pressure or deceit. Five vitiating factors — coercion, undue influence, fraud, misrepresentation and mistake — can make a contract voidable at the option of the party whose consent was tainted.",
+  "example": "An elderly man signs over property to a caretaker who controls his medicines and isolates him from family. Consent obtained through such undue influence is not free — the contract can be set aside.",
+  "keyPoints": [
+   "Five factors vitiate consent: coercion, undue influence, fraud, misrepresentation, mistake",
+   "Tainted consent generally makes the contract voidable, not automatically void",
+   "The test: would consent have been given but for the pressure or deception?"
+  ],
+  "relatedSectionIds": [
+   "ic-10",
+   "ic-73",
+   "bns-318"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "fraudulently"
+  ],
+  "ipcLabel": null,
+  "keywords": [
+   "free consent",
+   "coercion",
+   "undue influence",
+   "fraud",
+   "misrepresentation"
+  ],
+  "curated": true
+ },
+ {
+  "id": "ic-73",
+  "actId": "contract-act",
+  "chapterId": "ic-ch6",
+  "number": "73",
+  "sortIndex": 730,
+  "title": "Compensation for loss or damage caused by breach of contract",
+  "officialText": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it.\n\nSuch compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+  "officialStatus": "extract",
+  "textNote": "Further paragraphs extending the rule to quasi-contractual obligations, the Explanation, and the illustrations appear in the official Gazette text.",
+  "explanation": "Break a contract and you must compensate the other side — but only for losses that flow naturally from the breach or that both parties could foresee when contracting. Remote, indirect losses are not recoverable.",
+  "example": "A caterer cancels a wedding contract two days before the event. The couple recovers the extra cost of an emergency replacement — a natural, foreseeable loss — but not a speculative business opportunity a guest might have brought.",
+  "keyPoints": [
+   "Damages cover natural and foreseeable losses only",
+   "Remote and indirect losses are excluded",
+   "Breach of contract is a civil wrong — it becomes cheating only if dishonest intention existed from the start"
+  ],
+  "relatedSectionIds": [
+   "ic-10",
+   "ic-14",
+   "bns-318"
+  ],
+  "caseLawIds": [
+   "hridaya-ranjan"
+  ],
+  "definitionIds": [],
+  "ipcLabel": null,
+  "keywords": [
+   "breach",
+   "compensation",
+   "damages",
+   "contract broken",
+   "refund"
+  ],
+  "curated": true
+ },
+ {
+  "id": "it-66",
+  "actId": "it-act-2000",
+  "chapterId": "it-ch11",
+  "number": "66",
+  "sortIndex": 660,
+  "title": "Computer related offences",
+  "officialText": "If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both.",
+  "officialStatus": "full",
+  "explanation": "Section 43 lists computer wrongs — unauthorised access, downloading data, introducing viruses, damaging systems, denying access. Doing any of them dishonestly or fraudulently is a criminal offence under Section 66: hacking, in the everyday sense.",
+  "example": "A former employee uses old credentials to log into his company's server and delete client files. Unauthorised access plus dishonest intent makes this a Section 66 offence.",
+  "keyPoints": [
+   "Criminalises Section 43 acts done dishonestly or fraudulently",
+   "Covers unauthorised access, data theft, viruses and system damage",
+   "Up to three years' imprisonment, or a fine up to ₹5 lakh, or both"
+  ],
+  "relatedSectionIds": [
+   "it-66c",
+   "it-66d"
+  ],
+  "caseLawIds": [
+   "shreya-singhal"
+  ],
+  "definitionIds": [
+   "dishonestly",
+   "fraudulently"
+  ],
+  "ipcLabel": null,
+  "keywords": [
+   "hacking",
+   "unauthorised access",
+   "computer",
+   "cyber",
+   "data theft",
+   "virus"
+  ],
+  "curated": true
+ },
+ {
+  "id": "it-66c",
+  "actId": "it-act-2000",
+  "chapterId": "it-ch11",
+  "number": "66C",
+  "sortIndex": 663,
+  "title": "Punishment for identity theft",
+  "officialText": "Whoever, fraudulently or dishonestly make use of the electronic signature, password or any other unique identification feature of any other person, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to rupees one lakh.",
+  "officialStatus": "full",
+  "explanation": "Using someone else's password, OTP, or any unique identification feature — fraudulently or dishonestly — is identity theft. It is the gateway offence in most online frauds.",
+  "example": "A fraudster uses a stolen OTP and UPI PIN to move money out of a victim's account. Using another person's unique identification features dishonestly is identity theft under 66C, alongside cheating provisions of the BNS.",
+  "keyPoints": [
+   "Protects passwords, e-signatures and unique identifiers",
+   "Up to three years' imprisonment and a fine up to ₹1 lakh",
+   "Usually charged together with BNS cheating provisions in online-fraud cases"
+  ],
+  "relatedSectionIds": [
+   "it-66d",
+   "it-66",
+   "bns-318",
+   "bns-319"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "fraudulently",
+   "dishonestly"
+  ],
+  "ipcLabel": null,
+  "keywords": [
+   "identity theft",
+   "password",
+   "otp",
+   "upi",
+   "account",
+   "aadhaar"
+  ],
+  "curated": true
+ },
+ {
+  "id": "it-66d",
+  "actId": "it-act-2000",
+  "chapterId": "it-ch11",
+  "number": "66D",
+  "sortIndex": 664,
+  "title": "Punishment for cheating by personation by using computer resource",
+  "officialText": "Whoever, by means of any communication device or computer resource cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine which may extend to one lakh rupees.",
+  "officialStatus": "full",
+  "explanation": "The online-scam workhorse: cheating by pretending to be someone else — a bank, an official, a friend in trouble — using a phone, app or computer. It pairs with BNS Section 319 (cheating by personation) in most digital-fraud FIRs.",
+  "example": "A scammer sets up a fake customer-care number, poses as bank staff, and induces a victim to 'verify' funds into a mule account. Cheating by personation through a communication device — squarely 66D.",
+  "keyPoints": [
+   "Targets impersonation scams run through devices or computer resources",
+   "Up to three years' imprisonment and a fine up to ₹1 lakh",
+   "Complements BNS 318 and 319 — the charges commonly travel together"
+  ],
+  "relatedSectionIds": [
+   "it-66c",
+   "bns-319",
+   "bns-318"
+  ],
+  "caseLawIds": [],
+  "definitionIds": [
+   "fraudulently"
+  ],
+  "ipcLabel": null,
+  "keywords": [
+   "online scam",
+   "fake call",
+   "phishing",
+   "impersonation",
+   "cyber fraud",
+   "digital arrest"
+  ],
+  "curated": true
+ }
+]

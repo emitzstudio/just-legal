@@ -1,0 +1,187 @@
+[
+ {
+  "number": "64",
+  "title": "Punishment for rape",
+  "explanation": "Section 63 defines rape; this section prescribes the punishment. The baseline is rigorous imprisonment of at least ten years, extendable to imprisonment for life, together with a fine. Rape by those who hold power over the victim — police officers, public servants, armed forces personnel, jail or hospital staff, relatives, guardians or teachers — is treated as aggravated, and imprisonment for life there means the remainder of the offender's natural life.",
+  "example": "A constable commits rape on a woman held at his police station. Because the offence is custodial, sub-section (2) applies: the minimum is ten years' rigorous imprisonment, and the court may imprison him for the rest of his natural life.",
+  "keyPoints": [
+   "Baseline punishment: rigorous imprisonment of ten years to life, plus fine.",
+   "Aggravated custodial rape — by police, public servants, armed forces, jail or hospital staff, relatives, guardians or teachers — can mean imprisonment for the remainder of natural life.",
+   "The section carries its own definitions of \"armed forces\", \"hospital\", \"police officer\" and \"women's or children's institution\"."
+  ],
+  "relatedSectionIds": ["bns-63", "bns-65", "bns-70"],
+  "caseLawIds": [],
+  "definitionIds": ["cognizable"],
+  "ipcLabel": "IPC 376",
+  "keywords": ["rape", "punishment", "custodial", "sexual offence", "women", "aggravated"]
+ },
+ {
+  "number": "105",
+  "title": "Punishment for culpable homicide not amounting to murder",
+  "explanation": "When a killing is culpable homicide but not murder — for instance because grave and sudden provocation applies — this section fixes the sentence in two tiers. If the act was done with the intention of causing death or a likely-fatal injury, the punishment is imprisonment for life, or five to ten years, with fine. If the act was done only with knowledge that death was likely, but without that intention, it is up to ten years and fine.",
+  "example": "In a sudden quarrel, A strikes Z once with a heavy stick and Z dies. If the court finds no premeditation and grave provocation, A is punished under this section — the tier depending on whether A intended a fatal injury or merely knew it was likely.",
+  "keyPoints": [
+   "Applies when culpable homicide falls short of murder, typically because one of the murder exceptions applies.",
+   "Intention tier: imprisonment for life, or five to ten years, plus fine.",
+   "Knowledge-only tier: up to ten years plus fine."
+  ],
+  "relatedSectionIds": ["bns-100", "bns-101", "bns-103"],
+  "caseLawIds": ["punnayya", "km-nanavati"],
+  "definitionIds": ["mens-rea"],
+  "ipcLabel": "IPC 304",
+  "keywords": ["culpable homicide", "punishment", "intention", "knowledge", "provocation"]
+ },
+ {
+  "number": "108",
+  "title": "Abetment of suicide",
+  "explanation": "If a person dies by suicide, whoever abetted that suicide — by instigation, conspiracy or intentional aid — faces up to ten years' imprisonment and a fine. Courts insist on a clear, proximate act of instigation: quarrels, harsh words or a failed relationship are not, by themselves, abetment.",
+  "example": "A relentlessly taunts Z, tells Z to \"go and die\", and hides the medicines Z depends on. Z dies by suicide the same week. A's conduct, if proved to be intended instigation, is abetment of suicide.",
+  "keyPoints": [
+   "Punishment: up to ten years' imprisonment and fine.",
+   "Requires abetment as defined in Section 45 — instigation, conspiracy or intentional aid.",
+   "Abetment of the suicide of a child or a person of unsound mind is a separate, graver offence (Section 107)."
+  ],
+  "relatedSectionIds": ["bns-45", "bns-107", "bns-85"],
+  "caseLawIds": ["gian-kaur"],
+  "definitionIds": ["mens-rea"],
+  "ipcLabel": "IPC 306",
+  "keywords": ["suicide", "abetment", "instigation", "aid", "harassment"]
+ },
+ {
+  "number": "111",
+  "title": "Organised crime",
+  "explanation": "New in the BNS — organised crime enters India's general criminal code for the first time, drawing on state laws like MCOCA. It targets continuing unlawful activity — kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, cyber-crimes, trafficking — carried out by or for a crime syndicate using violence, threats or coercion for material benefit.",
+  "example": "A gang runs a vehicle-theft and extortion racket across two districts, with leaders taking a cut of every job. Each member acting for the syndicate can be prosecuted for organised crime, not just for the individual thefts.",
+  "keyPoints": [
+   "If the offence results in death: death or imprisonment for life, plus a fine of at least ten lakh rupees.",
+   "In any other case: five years to imprisonment for life, plus a fine of at least five lakh rupees.",
+   "Abetting, attempting, membership of a syndicate, harbouring members and holding proceeds of organised crime are all separately punishable."
+  ],
+  "relatedSectionIds": ["bns-112", "bns-113", "bns-303", "bns-308"],
+  "caseLawIds": [],
+  "definitionIds": ["cognizable"],
+  "keywords": ["organised crime", "syndicate", "gang", "extortion", "racket", "trafficking"]
+ },
+ {
+  "number": "113",
+  "title": "Terrorist act",
+  "explanation": "New in the BNS — terrorism is now an offence in the general penal code, alongside the special UAPA regime. It covers acts intended to threaten India's unity, integrity, sovereignty, security or economic security, or to strike terror in people, using bombs, firearms, poisonous gases or other hazardous means. An Explanation requires an officer at least of Superintendent of Police rank to decide whether a case is registered under this section or under the UAPA.",
+  "example": "A person plants an explosive device on a railway track to spread panic. Even if it is defused in time, the act — and any conspiracy, facilitation or harbouring around it — is punishable as a terrorist act.",
+  "keyPoints": [
+   "If the act results in death: death or imprisonment for life, plus fine.",
+   "In any other case: five years to imprisonment for life, plus fine.",
+   "An officer not below Superintendent of Police decides whether to proceed under the BNS or the UAPA."
+  ],
+  "relatedSectionIds": ["bns-111", "bns-147", "bns-152"],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": ["terrorist", "terrorism", "bomb", "explosive", "security", "uapa"]
+ },
+ {
+  "number": "117",
+  "title": "Voluntarily causing grievous hurt",
+  "explanation": "This section both defines and punishes voluntarily causing grievous hurt: the offender must intend or know the hurt is likely to be grievous, and the hurt actually caused must be one of the grievous kinds listed in Section 116 — fractures, permanent disfigurement, loss of a limb's use and the like. The basic offence carries up to seven years; leaving the victim permanently disabled or in a persistent vegetative state carries ten years to natural-life imprisonment.",
+  "example": "A strikes Z with an iron rod intending serious injury, and Z's arm is fractured. A fracture is grievous hurt under Section 116, so A faces up to seven years. Had Z been left in a persistent vegetative state, the minimum would be ten years' rigorous imprisonment.",
+  "keyPoints": [
+   "Basic punishment: up to seven years' imprisonment plus fine.",
+   "Causing permanent disability or a persistent vegetative state: ten years' rigorous imprisonment up to remainder of natural life.",
+   "Grievous hurt caused by a group of five or more on grounds of race, caste, community, sex, language or personal belief makes each member liable for up to seven years."
+  ],
+  "relatedSectionIds": ["bns-114", "bns-115", "bns-116", "bns-118"],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 322 · 325",
+  "keywords": ["grievous hurt", "fracture", "disability", "injury", "assault", "vegetative"]
+ },
+ {
+  "number": "137",
+  "title": "Kidnapping",
+  "explanation": "Kidnapping is of two kinds. Kidnapping from India means conveying a person beyond India's borders without consent. Kidnapping from lawful guardianship means taking or enticing a child — anyone under eighteen — or a person of unsound mind out of a guardian's keeping without the guardian's consent. The child's own willingness is irrelevant; it is the guardian's consent that counts.",
+  "example": "A persuades a fifteen-year-old to leave home and travel to another city without her parents' knowledge. Even though she went willingly, A has kidnapped her from lawful guardianship — her consent does not cure the offence.",
+  "keyPoints": [
+   "Two kinds: kidnapping from India, and kidnapping from lawful guardianship.",
+   "Punishment: up to seven years' imprisonment and fine.",
+   "Exception: a person who in good faith believes himself entitled to lawful custody of a child — such as a putative father — unless the act is for an immoral or unlawful purpose."
+  ],
+  "relatedSectionIds": ["bns-138", "bns-139", "bns-111"],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 359–363",
+  "keywords": ["kidnapping", "abduction", "child", "guardian", "minor", "custody"]
+ },
+ {
+  "number": "189",
+  "title": "Unlawful assembly",
+  "explanation": "An assembly of five or more people becomes unlawful when its common object is one the law lists: overawing the government by criminal force, resisting the execution of law, committing mischief or criminal trespass, forcibly taking property, or compelling someone to do what they are not bound to do. Simply being a knowing member is an offence — and an assembly that was lawful can turn unlawful the moment its common object changes.",
+  "example": "A group of seven gathers to forcibly evict a tenant and take possession of his shop. Whether or not violence has started, each person who knowingly stays in the group is a member of an unlawful assembly.",
+  "keyPoints": [
+   "Five or more persons plus one of the listed common objects.",
+   "Knowingly joining or continuing in the assembly: up to six months' imprisonment, fine or both.",
+   "Continuing after a lawful command to disperse, or hiring armed participants, is punished more severely."
+  ],
+  "relatedSectionIds": ["bns-190", "bns-191", "bns-196"],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 141–145",
+  "keywords": ["unlawful assembly", "mob", "protest", "common object", "disperse"]
+ },
+ {
+  "number": "191",
+  "title": "Rioting",
+  "explanation": "Rioting is an unlawful assembly in action: the moment any member uses force or violence in pursuit of the common object, every member of the assembly is guilty of rioting. The basic offence carries up to two years; rioting armed with a deadly weapon carries up to five.",
+  "example": "During a forcible-possession attempt by a group of six, one member smashes the gate with an iron rod. All six are rioters — and any of them carrying a deadly weapon faces the five-year tier.",
+  "keyPoints": [
+   "Force or violence by any one member makes every member guilty of rioting.",
+   "Basic punishment: up to two years' imprisonment, fine or both.",
+   "Armed with a deadly weapon or anything likely to cause death: up to five years, fine or both."
+  ],
+  "relatedSectionIds": ["bns-189", "bns-190", "bns-3"],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "ipcLabel": "IPC 146–148",
+  "keywords": ["rioting", "violence", "mob", "deadly weapon", "assembly"]
+ },
+ {
+  "number": "226",
+  "title": "Attempt to commit suicide to compel or restrain exercise of lawful power",
+  "explanation": "The general offence of attempting suicide (IPC 309) has been dropped from the BNS. What survives is narrow: attempting suicide in order to compel or restrain a public servant from doing their official duty — the threatened self-immolation at a demolition site, the coercive hunger strike aimed at an officer. Notably, community service is one of the available punishments.",
+  "example": "To force municipal officers to halt a lawful demolition, A climbs the building and attempts self-harm. A commits this offence; a court may sentence A to simple imprisonment up to one year, a fine, both — or community service.",
+  "keyPoints": [
+   "Attempting suicide is, in general, no longer a criminal offence under the BNS.",
+   "This section applies only when the attempt aims to compel or restrain a public servant's lawful power.",
+   "Punishment: simple imprisonment up to one year, fine, both — or community service."
+  ],
+  "relatedSectionIds": ["bns-108", "bns-4"],
+  "caseLawIds": ["gian-kaur"],
+  "definitionIds": ["community-service"],
+  "ipcLabel": "IPC 309 (narrowed)",
+  "keywords": ["suicide", "attempt", "public servant", "community service", "compel"]
+ },
+ {
+  "number": "358",
+  "title": "Repeal and savings",
+  "explanation": "The section that closes the circle: it repeals the Indian Penal Code, 1860. The savings clauses preserve everything already done under the IPC — earlier operation of the Code, rights and liabilities accrued, penalties incurred, and pending investigations and proceedings, which continue as if the Sanhita had not been passed. Section 6 of the General Clauses Act, 1897 governs the transition generally.",
+  "example": "A theft committed in June 2024 — before the BNS commenced — is investigated and tried under the IPC even if the charge sheet is filed later. An offence committed on or after 1 July 2024 is charged under the BNS.",
+  "keyPoints": [
+   "Repeals the Indian Penal Code, 1860.",
+   "Offences committed before commencement continue to be dealt with under the IPC.",
+   "Anything done under the repealed Code is deemed done under the corresponding BNS provision."
+  ],
+  "relatedSectionIds": ["bns-1", "bns-3"],
+  "caseLawIds": [],
+  "definitionIds": [],
+  "keywords": ["repeal", "savings", "ipc", "transition", "general clauses"]
+ },
+ {
+  "number": "100",
+  "caseLawIds": ["km-nanavati", "punnayya"]
+ },
+ {
+  "number": "103",
+  "caseLawIds": ["virsa-singh", "bachan-singh", "machhi-singh"]
+ },
+ {
+  "number": "152",
+  "caseLawIds": ["kedar-nath"]
+ }
+]
