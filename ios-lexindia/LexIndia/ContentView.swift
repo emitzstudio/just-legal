@@ -40,6 +40,7 @@ enum Destination: Hashable {
     case appearance
     case appColor
     case quizzes
+    case indexGroup(IndexGroup)
 }
 
 struct ContentView: View {
@@ -89,9 +90,9 @@ struct ContentView: View {
         .environment(speech)
         .preferredColorScheme(userStore.themeMode.colorScheme)
         .onChange(of: access.hasAccess) { wasActive, isActive in
-            // Entering the main experience starts at the Law Library hub.
+            // Entering the main experience starts at the List index.
             if !wasActive && isActive {
-                uiState.selectedTab = .library
+                uiState.selectedTab = .list
             }
         }
         .onChange(of: scenePhase) { _, newPhase in
@@ -118,6 +119,9 @@ private struct MainTabView: View {
             }
             Tab(LexStrings.t("tab.library", store.language), systemImage: "building.columns", value: LexTab.library) {
                 NavigationStack { LibraryView().lexDestinations() }
+            }
+            Tab(LexStrings.t("tab.list", store.language), systemImage: "list.bullet.rectangle", value: LexTab.list) {
+                NavigationStack { IndexView().lexDestinations() }
             }
             Tab(LexStrings.t("tab.students", store.language), systemImage: "graduationcap", value: LexTab.students) {
                 NavigationStack(path: $ui.studentsPath) { StudentsCornerView().lexDestinations() }
@@ -244,6 +248,8 @@ struct DestinationView: View {
             AppColorSettingsView()
         case .quizzes:
             QuizSetupView()
+        case .indexGroup(let group):
+            IndexGroupView(group: group)
         }
     }
 }

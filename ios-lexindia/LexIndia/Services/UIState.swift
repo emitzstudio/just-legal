@@ -13,14 +13,16 @@ import Observation
 enum LexTab: Hashable {
     case mySpace
     case library
+    case list
     case students
     case account
 }
 
 @Observable
 final class UIState {
-    /// The experience starts at the Law Library — the main content hub.
-    var selectedTab: LexTab = .library
+    /// The experience starts at the List — the app-wide index from which
+    /// the user chooses where to go.
+    var selectedTab: LexTab = .list
 
     /// Presents the plans sheet from anywhere in the main experience.
     var plansPresented: Bool = false
@@ -45,6 +47,13 @@ final class UIState {
         evakeelPresented = false
         selectedTab = .students
         studentsPath = [.quizzes]
+    }
+
+    /// Switches to a hub tab from the List index, closing any overlays.
+    func openTab(_ tab: LexTab) {
+        searchPresented = false
+        evakeelPresented = false
+        selectedTab = tab
     }
 
     func openEVakeel() {
