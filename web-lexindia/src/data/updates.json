@@ -1,0 +1,132 @@
+[
+ {
+  "id": "u-2026-bail-timelines",
+  "category": "supreme-court",
+  "title": "Bail first, jail after: timelines under the new procedure code re-emphasised",
+  "source": "LexIndia Desk · Demo summary",
+  "dateLabel": "14 Aug 2026",
+  "snippet": "Trial courts reminded that bail applications should be decided within the timelines the 2023 procedure code envisages.",
+  "body": [
+   "The Supreme Court has again underlined that bail is the rule and jail the exception, urging trial courts to decide bail applications promptly rather than letting them linger through repeated adjournments.",
+   "Under the Bharatiya Nagarik Suraksha Sanhita, 2023, bail provisions were consolidated with an emphasis on time-bound decisions, especially for first-time and undertrial prisoners who have served substantial portions of the maximum sentence.",
+   "For practitioners, the practical takeaway is documentation: applications that clearly set out the offence, the custody period and the accused's roots in society travel faster through the system."
+  ],
+  "relatedSectionIds": []
+ },
+ {
+  "id": "u-2026-digital-arrest",
+  "category": "judgment",
+  "title": "'Digital arrest' scams are plain cheating and impersonation, courts confirm",
+  "source": "LexIndia Desk · Demo summary",
+  "dateLabel": "11 Aug 2026",
+  "snippet": "Video-call intimidation scams are being charged as cheating, cheating by personation and extortion under the BNS.",
+  "body": [
+   "Courts across the country are treating so-called 'digital arrest' frauds — where callers pose as police or customs officers on video calls and extract money — as offences of cheating and cheating by personation under the Bharatiya Nyaya Sanhita.",
+   "Charges typically combine Section 318 (cheating), Section 319 (cheating by personation) and, where threats of arrest are used to extract payment, extortion provisions.",
+   "The pattern matters for victims: transferring money under fear of a fake 'arrest warrant' does not make the transfer voluntary, and prompt reporting through cybercrime portals materially improves recovery chances."
+  ],
+  "relatedSectionIds": [
+   "bns-318",
+   "bns-319"
+  ]
+ },
+ {
+  "id": "u-2026-organised-crime",
+  "category": "high-court",
+  "title": "What counts as 'petty organised crime'? High Courts sketch the boundaries",
+  "source": "LexIndia Desk · Demo summary",
+  "dateLabel": "6 Aug 2026",
+  "snippet": "The new organised-crime provisions of the BNS are being read to require a group, a pattern, and general public alarm.",
+  "body": [
+   "The BNS brought organised crime into the general penal code for the first time — Section 111 for organised crime and Section 112 for petty organised crime committed by groups or gangs.",
+   "High Courts have begun clarifying that a single offence by a single person is not 'organised' crime: the provisions contemplate continuing unlawful activity by groups, with snatching, theft and ticket-black-marketing rackets as typical examples.",
+   "The distinction has real sentencing consequences, so charge-framing under these sections is being examined closely at the trial stage."
+  ],
+  "relatedSectionIds": [
+   "bns-111",
+   "bns-112"
+  ]
+ },
+ {
+  "id": "u-2026-codes-anniversary",
+  "category": "new-law",
+  "title": "Two years of the 2023 codes: what has settled, what is still open",
+  "source": "LexIndia Desk · Demo summary",
+  "dateLabel": "1 Jul 2026",
+  "snippet": "The BNS, BNSS and BSA complete two years in force. Transition questions are narrowing to a few recurring themes.",
+  "body": [
+   "Since 1 July 2024, the Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam have replaced the IPC, CrPC and Evidence Act for new offences.",
+   "The most litigated transition question — which code applies to offences committed before the switchover but reported after — has largely settled: the date of the offence governs the substantive law, while procedure follows the new code.",
+   "Renumbering remains the biggest everyday friction. Courts, police and practitioners still work with dual citations, which is why IPC → BNS mapping tables are now a standard annexure in charge sheets.",
+   "LexIndia's converter covers the commonly used mappings, and every BNS section page shows its old IPC reference where a reliable correspondence exists."
+  ],
+  "relatedSectionIds": [
+   "bns-103",
+   "bns-318",
+   "bns-303"
+  ]
+ },
+ {
+  "id": "u-2026-cyber-amendment",
+  "category": "amendment",
+  "title": "Draft amendment floats sharper definitions for online deception",
+  "source": "LexIndia Desk · Demo summary",
+  "dateLabel": "22 Jul 2026",
+  "snippet": "A consultation draft proposes explicit language for impersonation through synthetic media within the cheating framework.",
+  "body": [
+   "A consultation draft circulated for public comment proposes clarifying that impersonation by means of synthetic or AI-generated media falls squarely within cheating by personation.",
+   "The draft does not create a new offence; it clarifies the existing Section 318–319 framework so that investigating officers need not stretch definitions when deepfakes are used to induce payments.",
+   "Stakeholder comments are open. If adopted, the change would flow into charge sheets without altering the section numbering LexIndia readers already know."
+  ],
+  "relatedSectionIds": [
+   "bns-318"
+  ]
+ },
+ {
+  "id": "u-2026-efiling",
+  "category": "notification",
+  "title": "E-filing expands: standard court forms accepted digitally in more districts",
+  "source": "LexIndia Desk · Demo summary",
+  "dateLabel": "18 Jul 2026",
+  "snippet": "More district courts now accept vakalatnamas, bail applications and affidavits filed through the e-filing portal.",
+  "body": [
+   "Court administration notifications continue extending e-filing to district courts, with standard formats — vakalatnama, bail application, affidavits — accepted digitally alongside physical filing.",
+   "Formats remain unchanged: the same documents you print and file across the counter are uploaded as PDFs, with e-signatures accepted for an increasing set of filings.",
+   "LexIndia's Documents area carries printable versions of the common formats so a working draft is never more than a download away."
+  ],
+  "relatedSectionIds": []
+ },
+ {
+  "id": "u-2026-snatching",
+  "category": "judgment",
+  "title": "Snatching stands on its own: the new dedicated offence in practice",
+  "source": "LexIndia Desk · Demo summary",
+  "dateLabel": "9 Jul 2026",
+  "snippet": "Chain- and phone-snatching cases are now charged under the BNS's dedicated snatching provision rather than as simple theft.",
+  "body": [
+   "The BNS carved snatching out of ordinary theft: Section 304 defines it as theft by sudden or quick or forcible seizure from a person's body or possession.",
+   "Trial courts are applying the distinction consistently — a pickpocketing remains theft under Section 303, while a drive-by phone grab is snatching, which carries its own punishment scale.",
+   "For readers coming from the IPC, this is one of the genuinely new offences with no direct predecessor section."
+  ],
+  "relatedSectionIds": [
+   "bns-304",
+   "bns-303"
+  ]
+ },
+ {
+  "id": "u-2026-community-service",
+  "category": "supreme-court",
+  "title": "Community service arrives in sentencing: early trends",
+  "source": "LexIndia Desk · Demo summary",
+  "dateLabel": "28 Jun 2026",
+  "snippet": "The BNS made community service a formal punishment for a set of minor offences. Courts are beginning to use it.",
+  "body": [
+   "Community service entered the general punishment scale with the BNS — a first for Indian criminal law, available for a small set of minor offences such as petty defamation and certain public nuisances.",
+   "Early sentencing data suggests magistrates favour it for first-time offenders where a short jail term would be disproportionate, pairing it with reporting requirements.",
+   "The provision list is short but the signal is larger: proportionality is now written into the code's punishment options."
+  ],
+  "relatedSectionIds": [
+   "bns-226"
+  ]
+ }
+]

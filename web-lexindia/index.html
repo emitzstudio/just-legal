@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>LexIndia — Indian law, in simple words</title>
+    <meta name="description" content="Read the sections, understand them in plain language, and study with confidence. BNS, IPC → BNS converter, legal terms, landmark cases, quizzes and E-Vakeel." />
+    <meta name="theme-color" content="#fcfafc" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="LexIndia" />
+
+    <meta property="og:title" content="LexIndia — Indian law, in simple words" />
+    <meta property="og:description" content="Read the sections, understand them in plain language, and study with confidence." />
+    <meta property="og:type" content="website" />
+
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    <script>
+      (function () {
+        try {
+          var raw = localStorage.getItem("lexindia.user.v1");
+          var mode = raw ? JSON.parse(raw).themeMode : "system";
+          var dark = mode === "dark" || (mode !== "light" && window.matchMedia("(prefers-color-scheme: dark)").matches);
+          if (dark) document.documentElement.classList.add("dark");
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

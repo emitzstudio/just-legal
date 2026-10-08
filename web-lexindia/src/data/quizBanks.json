@@ -1,0 +1,460 @@
+{
+ "bnss": [
+  {
+   "prompt": "Under the BNSS, an FIR can be registered at any police station regardless of where the offence occurred. This is called —",
+   "correct": "Zero FIR",
+   "wrong": [
+    "Open FIR",
+    "General diary entry",
+    "Transit FIR"
+   ]
+  },
+  {
+   "prompt": "The BNSS replaced which earlier law?",
+   "correct": "Code of Criminal Procedure, 1973",
+   "wrong": [
+    "Indian Penal Code, 1860",
+    "Indian Evidence Act, 1872",
+    "Police Act, 1861"
+   ]
+  },
+  {
+   "prompt": "An arrested person must be produced before a magistrate within —",
+   "correct": "24 hours",
+   "wrong": [
+    "48 hours",
+    "72 hours",
+    "7 days"
+   ]
+  },
+  {
+   "prompt": "Regular bail applications under the BNSS are commonly moved under —",
+   "correct": "Sections 480 and 483",
+   "wrong": [
+    "Sections 154 and 156",
+    "Sections 41 and 41A",
+    "Sections 200 and 202"
+   ]
+  },
+  {
+   "prompt": "The BNSS came into force on —",
+   "correct": "1 July 2024",
+   "wrong": [
+    "26 January 2024",
+    "15 August 2023",
+    "1 January 2025"
+   ]
+  },
+  {
+   "prompt": "A confession, to be admissible, is recorded by —",
+   "correct": "A Magistrate",
+   "wrong": [
+    "The investigating officer",
+    "The public prosecutor",
+    "A court clerk"
+   ]
+  },
+  {
+   "prompt": "A 'cognizable offence' is one where —",
+   "correct": "Police may arrest without a warrant",
+   "wrong": [
+    "Bail is always granted",
+    "Only the Sessions Court can try it",
+    "The offence is compoundable"
+   ]
+  },
+  {
+   "prompt": "Anticipatory bail is sought —",
+   "correct": "Before arrest, in anticipation of it",
+   "wrong": [
+    "After conviction",
+    "Only during trial",
+    "Only after the chargesheet"
+   ]
+  },
+  {
+   "prompt": "The BNSS makes forensic investigation mandatory for offences punishable with —",
+   "correct": "Seven years or more",
+   "wrong": [
+    "Three years or more",
+    "Ten years or more",
+    "Only capital offences"
+   ]
+  },
+  {
+   "prompt": "The default period for filing a chargesheet after arrest is —",
+   "correct": "60 or 90 days, by gravity of offence",
+   "wrong": [
+    "30 days in all cases",
+    "120 days in all cases",
+    "180 days in all cases"
+   ]
+  },
+  {
+   "prompt": "Summons cases relate to offences punishable with imprisonment —",
+   "correct": "Up to two years",
+   "wrong": [
+    "Up to seven years",
+    "Up to three years",
+    "Of any term"
+   ]
+  },
+  {
+   "prompt": "Trial in absentia of proclaimed offenders is —",
+   "correct": "Newly allowed under the BNSS",
+   "wrong": [
+    "Entirely prohibited",
+    "Only for foreign nationals",
+    "Only in terror cases"
+   ]
+  }
+ ],
+ "evidence": [
+  {
+   "prompt": "The Bharatiya Sakshya Adhiniyam replaced —",
+   "correct": "Indian Evidence Act, 1872",
+   "wrong": [
+    "Code of Criminal Procedure, 1973",
+    "Indian Penal Code, 1860",
+    "Civil Procedure Code, 1908"
+   ]
+  },
+  {
+   "prompt": "The burden of proving a fact generally lies on —",
+   "correct": "The person who asserts it",
+   "wrong": [
+    "The accused",
+    "The investigating officer",
+    "The court"
+   ]
+  },
+  {
+   "prompt": "Electronic records are admissible under the BSA with a certificate under —",
+   "correct": "Section 63",
+   "wrong": [
+    "Section 45",
+    "Section 27",
+    "Section 118"
+   ]
+  },
+  {
+   "prompt": "A dying declaration is —",
+   "correct": "A statement about the cause of death by the person who died",
+   "wrong": [
+    "Always inadmissible",
+    "Valid only before police",
+    "A form of confession"
+   ]
+  },
+  {
+   "prompt": "A confession made to a police officer is —",
+   "correct": "Generally inadmissible",
+   "wrong": [
+    "Always admissible",
+    "Admissible with two witnesses",
+    "Admissible if written"
+   ]
+  },
+  {
+   "prompt": "'Res gestae' covers facts —",
+   "correct": "Forming part of the same transaction",
+   "wrong": [
+    "Proved only by experts",
+    "Judicially noticed",
+    "About prior convictions"
+   ]
+  },
+  {
+   "prompt": "Facts a court must accept without proof fall under —",
+   "correct": "Judicial notice",
+   "wrong": [
+    "Estoppel",
+    "Presumption of guilt",
+    "Hearsay"
+   ]
+  },
+  {
+   "prompt": "Expert opinion is relevant on —",
+   "correct": "Science, art, handwriting or foreign law",
+   "wrong": [
+    "Any disputed fact",
+    "The character of the accused",
+    "The motive of a witness"
+   ]
+  },
+  {
+   "prompt": "The standard of proof in criminal cases is —",
+   "correct": "Beyond reasonable doubt",
+   "wrong": [
+    "Preponderance of probabilities",
+    "Prima facie satisfaction",
+    "Absolute certainty"
+   ]
+  },
+  {
+   "prompt": "The standard of proof in civil cases is —",
+   "correct": "Preponderance of probabilities",
+   "wrong": [
+    "Beyond reasonable doubt",
+    "Moral certainty",
+    "Prima facie only"
+   ]
+  },
+  {
+   "prompt": "Leading questions are generally permitted in —",
+   "correct": "Cross-examination",
+   "wrong": [
+    "Examination-in-chief",
+    "Re-examination",
+    "No stage of trial"
+   ]
+  },
+  {
+   "prompt": "Hearsay evidence is —",
+   "correct": "Generally not admissible",
+   "wrong": [
+    "Always admissible",
+    "Admissible if in writing",
+    "Equal to direct evidence"
+   ]
+  }
+ ],
+ "constitution": [
+  {
+   "prompt": "Equality before the law is guaranteed by —",
+   "correct": "Article 14",
+   "wrong": [
+    "Article 19",
+    "Article 21",
+    "Article 32"
+   ]
+  },
+  {
+   "prompt": "The right to constitutional remedies before the Supreme Court is under —",
+   "correct": "Article 32",
+   "wrong": [
+    "Article 226",
+    "Article 21",
+    "Article 136"
+   ]
+  },
+  {
+   "prompt": "Protection of life and personal liberty is under —",
+   "correct": "Article 21",
+   "wrong": [
+    "Article 14",
+    "Article 19",
+    "Article 25"
+   ]
+  },
+  {
+   "prompt": "Freedom of speech and expression is guaranteed by —",
+   "correct": "Article 19(1)(a)",
+   "wrong": [
+    "Article 21",
+    "Article 14",
+    "Article 25(1)"
+   ]
+  },
+  {
+   "prompt": "The writ commanding an authority to perform its legal duty is —",
+   "correct": "Mandamus",
+   "wrong": [
+    "Habeas corpus",
+    "Certiorari",
+    "Quo warranto"
+   ]
+  },
+  {
+   "prompt": "The writ of habeas corpus protects against —",
+   "correct": "Unlawful detention",
+   "wrong": [
+    "Defamation",
+    "Double jeopardy",
+    "Self-incrimination"
+   ]
+  },
+  {
+   "prompt": "Protection against self-incrimination is under —",
+   "correct": "Article 20(3)",
+   "wrong": [
+    "Article 21",
+    "Article 22",
+    "Article 19(2)"
+   ]
+  },
+  {
+   "prompt": "Directive Principles of State Policy are contained in —",
+   "correct": "Part IV",
+   "wrong": [
+    "Part III",
+    "Part V",
+    "Part II"
+   ]
+  },
+  {
+   "prompt": "Fundamental Duties were added by —",
+   "correct": "The 42nd Amendment (1976)",
+   "wrong": [
+    "The 44th Amendment",
+    "The 73rd Amendment",
+    "The 86th Amendment"
+   ]
+  },
+  {
+   "prompt": "The 'basic structure' doctrine was laid down in —",
+   "correct": "Kesavananda Bharati v. State of Kerala (1973)",
+   "wrong": [
+    "Golaknath v. State of Punjab",
+    "Maneka Gandhi v. Union of India",
+    "Minerva Mills v. Union of India"
+   ]
+  },
+  {
+   "prompt": "High Courts issue writs under —",
+   "correct": "Article 226",
+   "wrong": [
+    "Article 32",
+    "Article 141",
+    "Article 136"
+   ]
+  },
+  {
+   "prompt": "Untouchability is abolished by —",
+   "correct": "Article 17",
+   "wrong": [
+    "Article 15",
+    "Article 16",
+    "Article 23"
+   ]
+  },
+  {
+   "prompt": "Free and compulsory education for children aged 6–14 is under —",
+   "correct": "Article 21A",
+   "wrong": [
+    "Article 45",
+    "Article 19",
+    "Article 29"
+   ]
+  },
+  {
+   "prompt": "Law declared by the Supreme Court binds all courts under —",
+   "correct": "Article 141",
+   "wrong": [
+    "Article 142",
+    "Article 136",
+    "Article 32"
+   ]
+  }
+ ],
+ "contract": [
+  {
+   "prompt": "An agreement enforceable by law is a —",
+   "correct": "Contract",
+   "wrong": [
+    "Promise",
+    "Proposal",
+    "Consideration"
+   ]
+  },
+  {
+   "prompt": "The Indian Contract Act was enacted in —",
+   "correct": "1872",
+   "wrong": [
+    "1860",
+    "1930",
+    "1947"
+   ]
+  },
+  {
+   "prompt": "An agreement with a minor is —",
+   "correct": "Void ab initio",
+   "wrong": [
+    "Voidable",
+    "Valid",
+    "Enforceable on attaining majority"
+   ]
+  },
+  {
+   "prompt": "Consideration means —",
+   "correct": "Something in return",
+   "wrong": [
+    "Written consent",
+    "A court fee",
+    "A witness signature"
+   ]
+  },
+  {
+   "prompt": "A contract caused by coercion is —",
+   "correct": "Voidable at the option of the aggrieved party",
+   "wrong": [
+    "Void in all cases",
+    "Fully valid",
+    "Criminal by itself"
+   ]
+  },
+  {
+   "prompt": "'Quantum meruit' means —",
+   "correct": "As much as is earned or deserved",
+   "wrong": [
+    "A void agreement",
+    "Full liquidated damages",
+    "Specific performance"
+   ]
+  },
+  {
+   "prompt": "An acceptance with modifications amounts to —",
+   "correct": "A counter-offer",
+   "wrong": [
+    "A valid acceptance",
+    "A completed contract",
+    "An invitation to offer"
+   ]
+  },
+  {
+   "prompt": "Agreements in restraint of trade are —",
+   "correct": "Void, subject to limited exceptions",
+   "wrong": [
+    "Always valid",
+    "Criminal offences",
+    "Voidable at either side's option"
+   ]
+  },
+  {
+   "prompt": "Compensation for breach of contract is dealt with under —",
+   "correct": "Section 73",
+   "wrong": [
+    "Section 10",
+    "Section 2(h)",
+    "Section 25"
+   ]
+  },
+  {
+   "prompt": "A contingent contract depends on —",
+   "correct": "A collateral uncertain event",
+   "wrong": [
+    "Mutual consent alone",
+    "Written form",
+    "Registration"
+   ]
+  },
+  {
+   "prompt": "Goods displayed in a shop window are —",
+   "correct": "An invitation to offer",
+   "wrong": [
+    "An offer",
+    "An acceptance",
+    "A concluded contract"
+   ]
+  },
+  {
+   "prompt": "An agreement without consideration is generally —",
+   "correct": "Void",
+   "wrong": [
+    "Valid",
+    "Voidable",
+    "Illegal"
+   ]
+  }
+ ]
+}

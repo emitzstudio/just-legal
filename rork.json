@@ -1,10 +1,15 @@
 {
+  "$schema": "https://rork.com/schema/rork.json",
   "apps": [
     {
       "name": "LexIndia",
       "path": "ios-lexindia",
       "framework": "swift"
+    },
+    {
+      "name": "LexIndia Web",
+      "path": "web-lexindia",
+      "framework": "web"
     }
-  ],
-  "$schema": "https://rork.com/schema/rork.json"
+  ]
 }
